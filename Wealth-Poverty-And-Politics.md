@@ -561,8 +561,7 @@ more people than households in the bottom 20 percent.
 **Observation**? Some have argued from history that major social upheavals have often occurred when social problems were in
 fact lessening, but not at a pace comparable to rising expectations.
 
-But, under any movement or set of collective beliefs, being on the side of the angels
-can be a dangerous self-indulgence in a heedless willfulness
-sometimes called idealism.
+- But, under any movement or set of collective beliefs, being on the side of the angels
+  can be a dangerous self-indulgence in a heedless willfulness sometimes called idealism.
 
-This kind of idealism can seduce thinking into feeling, replace realities with preconceptions, and make the overriding goal the victory of some abstract vision, in defiance of reality
+- This kind of idealism can seduce thinking into feeling, replace realities with preconceptions, and make the overriding goal the victory of some abstract vision, in defiance of reality

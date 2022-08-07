@@ -8,7 +8,7 @@ au courant - french word, aware of what's going on
 it is critical to try to understand the patterns of their behavior and the incentives and constraints affecting those
 patterns.
 
-Butthe ultimate test of a deconstructionist’s ideas is whether other deconstructionists find those ideas
+But the ultimate test of a deconstructionist’s ideas is whether other deconstructionists find those ideas
 interesting, original, persuasive, elegant, or ingenious. There is no external test.
 
 The great problem—and the great social danger—with purely internal criteria
@@ -18,8 +18,7 @@ of reality and remain circular in their methods of validation.
 In short, constraints which apply to people in most other fields do not apply
 even approximately equally to intellectuals.
 
-Many public intellectuals have been justly
-renowned within their respective fields but the point here is that many did not
+Many public intellectuals have been justly renowned within their respective fields but many did not
 stay within their respective fields.
 
 Many major economic decisions are likewise crucially dependent on the
@@ -51,8 +50,6 @@ the elite.
 The intellectuals’ exaltation of “reason” often comes at the expense of
 experience, allowing them to have sweeping confidence about things in which
 they have little or no knowledge or experience.
-
-*mundane knowledge held by general population
 
 One-day-at-a-time-rationalism: risks restricting its analysis to the immediate implications of each
 issue as it arises, missing wider implications of a decision that may have merit as
@@ -308,10 +305,8 @@ But “wetlands” are spoken of in hushed and reverential tones, as
 one might speak of shrines.
 
 When the Great Depression of the 1930s again brought to power people with the government
-intervention philosophy—many of whom had served in the Progressive
-Woodrow Wilson administration—they now changed their name to “liberals,”
-escaping the connotations of their earlier incarnation, much as people escape
-their financial debts through bankruptcy.
+intervention philosophy—many of whom had served in the Progressive Woodrow Wilson administration—they now changed their name to “liberals,”
+escaping the connotations of their earlier incarnation, much as people escape their financial debts through bankruptcy.
 
 Much of what is said to be socially
 “constructed” has been in fact socially evolved over the generations and socially
@@ -375,13 +370,11 @@ But judges making decisions on the basis of their own conceptions of
 fairness, compassion or social justice are, in effect, creating laws after the fact,
 which those subject to such laws could not have known in advance.
 
-With this, Theodore Roosevelt verbally transformed himself into “the people”
-and transformed the Constitution into an optional or advisory document,
+With this, Theodore Roosevelt verbally transformed himself into “the people” and transformed the Constitution into an optional or advisory document,
 defeating the whole purpose of having a Constitution as a check on the powers
 of government officials. 
 
-Theodore Roosevelt pledged to make “the people themselves” the “ultimate
-makers of their own constitution.” Since the millions of people themselves
+Theodore Roosevelt pledged to make “the people themselves” the “ultimate makers of their own constitution.” Since the millions of people themselves
 obviously cannot remake the Constitution, this leaves the President again in the
 role of “the people”—which means that constitutional limits on Presidential
 power are only whatever the President chooses to acknowledge.
@@ -394,8 +387,7 @@ different interpretations of the Constitution
 Merely repeating the mantra of “change” offers no reason why judges specifically are the ones to
 make the changes.
 
-If the Constitution is not amended very
-often, that in itself is no evidence of a serious difficulty in amending the
+If the Constitution is not amended very often, that in itself is no evidence of a serious difficulty in amending the
 Constitution. 
 
 The crucial question here, as in so many other decision-making processes is
@@ -440,8 +432,7 @@ off the roof of a skyscraper will have consequences.
 In the United States, the cost of incarcerating a criminal has been estimated as
 being at least $10,000 a year less than the cost of turning him loose in society
 
-Empirically, the question
-whether or not cultures are equal becomes: Equal in what demonstrable way?
+Empirically, the question whether or not cultures are equal becomes: Equal in what demonstrable way?
 
 The fact that the Victorian era was one of a
 decades-long decline in alcoholism, crime and social pathology in general
