@@ -1,25 +1,16 @@
 To be for or against “change” in general is childish.
-Everything depends on the specifics. To be for generic
-“change” is to say that what we have is so bad that any change
+Everything depends on the specifics. To be for generic “change” is to say that what we have is so bad that any change
 is likely to be for the better.
 
 Such a pose may make some people feel superior to others
 
-Duty to die: is that what old people need?
-
-Today, it is the children and grandchildren who
-move in with the grandparents.
-
-People don’t usually grow up when there are other people
-who make excuses for their immaturity
+People don’t usually grow up when there are other people who make excuses for their immaturity
 
 People make choices and have their own priorities—and
 adults take responsibilities for their choices and priorities.
 
 “How would you feel if you were a Native American who saw
-the European invaders taking away your land?” is the kind of
-question our children are likely to be confronted with in our
-schools. It is a classic example of trying to look at the past with
+the European invaders taking away your land?” It is a classic example of trying to look at the past with
 the assumptions—and the ignorance—of the present.
 
 This is an academic community where indignation is a way of
@@ -45,7 +36,7 @@ simplifying.
 
 An old saying is that we are once a man and twice a child.
 
-Women may lie about their age to other people but men lie
+**Wisdom** Women may lie about their age to other people but men lie
 about their age to themselves.
 
 Domestic service has lifted people out of poverty, some of the most
@@ -75,7 +66,7 @@ the future of the United States would come, not from foreign
 enemies, but from that class of people which “thirsts and burns
 for distinction.
 
-Think beyond step 1. 
+Think beyond step 1.
 
 The most fundamental fact about labor unions is that they do
 not create any wealth.
@@ -98,9 +89,9 @@ hunger.
 Crime is one of those occupations, like sports and entertainment, in
 which a relatively few at the top achieve very high incomes,
 while most of those who enter the occupation receive very low
-incomes. 
+incomes.
 
-Private bail bondsman. 
+Private bail bondsman.
 indicted criminals can pay a bail bondsman to post a
 bond in their behalf to guarantee their appearance in court on
 their trial date, so that they can stay out of jail pending trial.
@@ -114,7 +105,7 @@ view, would only draw unwanted scrutiny.
 
 While biases and prejudices are conditions in people’s minds,
 discrimination is an overt act taking place outside their minds
-in the real world. 
+in the real world.
 
 In short, the costs of translating subjective attitudes, such as bias or
 prejudice, into overt acts of discrimination cannot be
@@ -131,7 +122,7 @@ merit is a thousand times as great as another’s.
 
 “A war may ravage a continent or
 destroy a generation without posing new theoretical
-questions,” 
+questions,”
 
 In politics, throwing the taxpayers’ money at disasters is
 supposed to show your compassion. But robbing Peter to pay
@@ -163,7 +154,7 @@ precious notions.
 The Crisis
 The Solution
 The Results
-The Response 
+The Response
 
 John F. Kennedy stated the purpose of the “war on poverty”
 to be “to help our less fortunate citizens to help themselves.
@@ -255,7 +246,7 @@ Incentives favor judicial activism, rewards and constraints.
 Judges, like intellectuals, usually become famous among the
 general public only when they step out beyond the bounds of
 their professional competence to become philosopher-kings
-deciding social, economic or political issues. 
+deciding social, economic or political issues.
 
 ” Practitioners of judicial restraint are seeking to understand and apply the
 written law as it stands—as instructions for both judges and
@@ -332,7 +323,7 @@ policies.
 Another individual response to preferential policies has been
 to use someone genuinely of the qualifying ancestry as a
 “front” for businesses seeking preferential treatment in the
-awarding of government contracts 
+awarding of government contracts
 
 In some countries, complete physical withdrawal from the
 country by those in non-preferred groups has occurred in the
@@ -343,7 +334,7 @@ Chicago over white policemen with higher test scores—as a
 result of a court order—found themselves taunted as “quota
 sergeants” when they made mistakes
 
- In even the worst of the worst schools, typically in
+In even the worst of the worst schools, typically in
 low-income and minority neighborhoods, the teachers unions
 bitterly oppose letting even a fraction of the students go to
 private schools with vouchers.
@@ -355,7 +346,7 @@ American doctorates which go to Americans.
 Stanford University’s law school, for example, sends students
 and others over to the nearby ghetto in East Palo Alto to fight
 against the expulsion of hoodlums from the public school
-system there. 
+system there.
 
 Much that is done in the name of “service” not only fails to
 advance the development of thinking skills but positively

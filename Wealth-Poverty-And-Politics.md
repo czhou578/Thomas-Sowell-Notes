@@ -497,7 +497,7 @@ diamond may be worth much more than a penny, but enough pennies will be worth mo
 
 Right of low income people to prefer prosperous society.
 
-One of the reasons for paying people for their productivity, rather
+**Fact** One of the reasons for paying people for their productivity, rather
 than their merits, is that productivity is far easier to determine than
 merit
 
