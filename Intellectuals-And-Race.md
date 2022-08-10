@@ -1,10 +1,6 @@
-Hard to define race 
+DEFINITION: Race is a social concept with a biological basis.
 
-DEFINITION: Race is a social concept with a biological basis. 
-
-Big question, how do we confront race?
-
-Outcomes of intellectuals are subject to peer consensus.
+**Big question**, how do we confront race?
 
 Put US's racial/ethnic issues in an intl context. This
 neither assumes nor denies the uniqueness of American racial and ethnic
@@ -12,21 +8,19 @@ issues, but lets that be an empirical question.
 
 Take asian americans into considerations, whites are let go from jobs before asians.
 
-Labels like Asian and Pacific Islanders are vague, have to go in more detail.
-
 disparities often treated as oddities with no historial precedent.
 
-Fact: Bank of Italy was set up to attract clients who were italian and were very good at repaying debts,
+**Fact**: Bank of Italy was set up to attract clients who were italian and were very good at repaying debts,
 this bank became BofA.
 
-Big Question: Was there ever any realistic chance that the various races would have had the
+**Big Question**: Was there ever any realistic chance that the various races would have had the
 same skills, experience and general capabilities, even if they had the same
 genetic potential and faced no discrimination?
 
 geographic barriers: Western europe has geographic advantages compared to eastern europe.
 Literacy moved from Western to eastern europe
 
-— and neither could the people in those places have developed the same industrial
+and neither could the people in those places have developed the same industrial
 skills, habits and ways of life
 
 Median Age differences mean differences in experience, knowledge
@@ -34,7 +28,7 @@ Median Age differences mean differences in experience, knowledge
 Irish immigrants arrived in the nineteenth century, and cholera outbreaks in
 New York and Philadelphia went largely through Irish neighborhoods. People didn't want to live near Irish...
 
-------CHANGING RACIAL BELIEFS--------
+## CHANGING RACIAL BELIEFS
 
 Correlation is not CAUSATION
 genetic determinism is undermined.
@@ -45,35 +39,37 @@ than black soldiers from Ohio, Illinois, New York, and Pennsylvania.
 Eugenics movement, attempt to prevent excessive breeding of wrong people.
 
 RELATED: The Passing of the Great Race, written by birth control advocate, inspired Hitler
-Author Madison Grant was ivy league educated and wealthy, and a progressive. 
+Author Madison Grant was ivy league educated and wealthy, and a progressive.
 
-FACT: Progressive sociologist Edward A. Ross, who coined the term “race
+**FACT**: Progressive sociologist Edward A. Ross, who coined the term “race
 suicide” to describe the demographic replacement of the existing American
 stock over time by immigrants with higher birthrates from Southern and
 Eastern Europe
 
-Francis Walker - proposed that immigrants pay $100 downpayment on entering country, He said that the restrictions he proposed “would not
-prevent tens of thousands of thrifty Swedes, Norwegians, Germans, and men
-of other nationalities coming hither at their own charges, since great numbers
-of these people now bring more than that amount of money with them. 
+## Intellectuals Quotes about Race.
 
-Richard Ely, progressive: favored government and rejected free market economics.
+- Francis Walker - proposed that immigrants pay $100 downpayment on entering country, He said that the restrictions he proposed “would not
+  prevent tens of thousands of thrifty Swedes, Norwegians, Germans, and men
+  of other nationalities coming hither at their own charges, since great numbers
+  of these people now bring more than that amount of money with them.
+
+- Richard Ely, progressive: favored government and rejected free market economics.
+
+- Harvard economist Taussig: those saturated with alcohol
+  or tainted with hereditary disease,” as well as “the irretrievable criminals and
+  tramps.”
+
+- In response to a British historian who expressed a fear that the
+  black and yellow races would rise in the world to the point of challenging the
+  white race, Theodore Roosevelt said: “By that time the descendant of the
+  negro may be as intellectual as the Athenian.”
 
 Progressive economists advocated minimum wage laws, as a way of preventing “low-wage races” such as
 Chinese immigrants from lowering the standard of living of American
-workers. 
-
-Harvard economist Taussig: those saturated with alcohol
-or tainted with hereditary disease,” as well as “the irretrievable criminals and
-tramps.”
+workers.
 
 Woodrow Wilson (president) showed KKK films in White House, gov segregated employees at his time.
-Theodore Roosevelt had a very different view of potential of blacks then othe progressives: 
-
-QUOTE: In response to a British historian who expressed a fear that the
-black and yellow races would rise in the world to the point of challenging the
-white race, Theodore Roosevelt said: “By that time the descendant of the
-negro may be as intellectual as the Athenian.”
+Theodore Roosevelt had a very different view of potential of blacks then othe progressives:
 
 It is not necessary to believe that crime rates are genetically determined, but it is also not necessary to believe that it
 was all just a matter of perceptions by whites.
@@ -92,7 +88,7 @@ Intl examples: latvian educated class resented successful Germans and promoted u
 Habsburg empire: germans were elite, and czechs were not. But a new Czech intelligentsia, including university students and
 school teachers, promoted Czech cultural nationalism.
 
-Germans resisted efforts initially to fragment society along ethnic lines, but were eventually forced to 
+Germans resisted efforts initially to fragment society along ethnic lines, but were eventually forced to
 defend themselves, causing ethnic polarization (under social justice).
 
 Similar polarization has been produced in other countries with the rise of a
@@ -162,20 +158,20 @@ Being mismatched to the particular university that has admitted them for diversi
 Groups that score low on abstract questions in IQ tests.
 
 FALLACY: group differences in scores on these tests are due primarily to the words used in these tests or to the
-culturally loaded subjects in the questions. 
+culturally loaded subjects in the questions.
 
 REFUTATION: these groups may not be interested in abstractions in their lives.
-Also, what are the tests supposed to be for? These skills are needed in many careers in this world. 
+Also, what are the tests supposed to be for? These skills are needed in many careers in this world.
 A culture-free test might be appropriate in a culture-free society— but there are no such societies.
 
-1st tie forced to accept 2nd tier, 2nd tier accept 3rd tier, domino effect. 
+1st tie forced to accept 2nd tier, 2nd tier accept 3rd tier, domino effect.
 
 Not useful to single out a racial group's IQ for comparison with natl. avg, since it creates implication of uniqueness.
 
-The fervor and persistence of the racial IQ debate cannot be assumed to be a measure of its practical implications,* as distinguished from its ideological
+The fervor and persistence of the racial IQ debate cannot be assumed to be a measure of its practical implications,\* as distinguished from its ideological
 importance for competing social visions.
 
-Black subculture has had negative effect on academic achievement. 
+Black subculture has had negative effect on academic achievement.
 FALLACY: what is needed in educational institutions is some larger “critical mass” of black students, in order to make them feel socially
 comfortable and thus able to do their best work academically.
 
@@ -220,7 +216,7 @@ EXAMPLE: For example, most blacks were not residentially segregated in such citi
 Detroit, Philadelphia, and Washington by the end of the nineteenth century
 
 a causal analysis of the major changes that occurred in residential and other restrictions on blacks cannot explain such
-changes by simply saying “racism. 
+changes by simply saying “racism.
 
 ----> MULTICULTURALISM
 
@@ -261,7 +257,7 @@ achieve same results as others without having to change, in order to acquire sam
 
 LESSON: caste system preaches resignation to one’s fate and multiculturalism preaches resentment of one’s fate
 
-“blaming the victim.” - confuses blame with causation. 
+“blaming the victim.” - confuses blame with causation.
 EVIDENCE: less educated blacks moving to northern cities ruined race relations (couldn't be blamed for being born in the south)
 but it doesn't absolve them from their role in worse changes.
 
@@ -286,7 +282,7 @@ gaps are unlikely to close within a lifetime.
 
 -------> Race Industry
 
-NAACP, ethnic studies departments / programs. Legal profession represeted in racial issues. 
+NAACP, ethnic studies departments / programs. Legal profession represeted in racial issues.
 diversity consultants in private industry, community organizers in ethnic neighborhoods..
 
 Policies may enhance the race industry itself, without benefitting the people.
@@ -305,7 +301,7 @@ number of possible reasons. But the burden of proof is put on the accused
 
 gov. leverage can paralyze businesses.
 
-----Can make accusations of racism against banks, banks pay money, accusation withdrawn. 
+----Can make accusations of racism against banks, banks pay money, accusation withdrawn.
 
 In a decade, more than a trillion dollars have been extracted from financial and other
 business organizations by community activist organizations, using a variety
@@ -327,5 +323,3 @@ Peace is so hard to maintain and rare, why would we always force future gen. to 
 
 Many of what are called social problems are differences between the
 theories of intellectuals and the realities of the world
-
-
