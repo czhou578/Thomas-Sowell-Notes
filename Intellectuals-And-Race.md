@@ -69,22 +69,18 @@ Chinese immigrants from lowering the standard of living of American
 workers.
 
 Woodrow Wilson (president) showed KKK films in White House, gov segregated employees at his time.
-Theodore Roosevelt had a very different view of potential of blacks then othe progressives:
 
 It is not necessary to believe that crime rates are genetically determined, but it is also not necessary to believe that it
 was all just a matter of perceptions by whites.
 
-FACT: the middle of the twentieth century, most of the Negro professionals in Washington, D.C. were
-by all indications descendants of the antebellum “free persons of color
-
-------INTERNAL RESPONSES TO DISPARITIES---------
+## INTERNAL RESPONSES TO DISPARITIES
 
 In some countries today, any claim that intergroup differences in outcomes are results of intergroup differences
 in skills, behavior or performance are dismissed by the intelligentsia as false
 “perceptions,” “prejudices,” or “stereotypes,” or else are condemned as
 “blaming the victim.
 
-Intl examples: latvian educated class resented successful Germans and promoted unique latvian identity
+**International Example**: latvian educated class resented successful Germans and promoted unique latvian identity
 Habsburg empire: germans were elite, and czechs were not. But a new Czech intelligentsia, including university students and
 school teachers, promoted Czech cultural nationalism.
 
@@ -94,14 +90,14 @@ defend themselves, causing ethnic polarization (under social justice).
 Similar polarization has been produced in other countries with the rise of a
 newly educated intelligentsia— usually educated in “soft” fields
 
-An international study of ethnic conflicts pointed out: “The very elites who
+**Big Quote**: “The very elites who
 were thought to be leading their peoples away from ethnic affiliations were
 commonly found to be in the forefront of ethnic conflict.
 
 surplus academic proletariat which could not be absorbed into “economically or socially functional
 employment” because they were trained primarily in law or the humanities
 
-FACT: Historian A.J.P. Taylor has said that the first stage of nationalism “is led
+**Big Quote**: Historian A.J.P. Taylor has said that the first stage of nationalism “is led
 by university professors” and that “the second stage comes when the pupils
 of the professors get out into the world.
 
@@ -111,14 +107,11 @@ All this was part of the price paid for seeking cosmic justice for intertemporal
 maintaining peace and civility among flesh-and-blood contemporaries is
 often a major challenge by itself.
 
-Big Picture: disparity in wealth is a result, not a cause.
-, like if Group A has higher incomes then group B, then its group B's fault...
-
-intelligentsia downplays achievements by transforming it into "privilege"
+**Big Picture**: disparity in wealth is a result, not a cause. like if Group A has higher incomes then group B, then its group B's fault... intelligentsia downplays achievements by transforming it into "privilege"
 
 LESSON: principles are less important then fashions
 
---------------RACE AND INTELLIGENCE-----------------
+## RACE AND INTELLIGENCE
 
 mental potential/native intelligence - IQ at birth
 
@@ -143,8 +136,6 @@ Some groups may refuse to be dependents and escape consequences of this lifestyl
 hereditary and environmental theories are not sealed off, since environment can influence survival rate of hereditary Characteristics
 No real way to measure potential of individuals at moment of conception.
 
-Welfare subsidizes more kids in low income families, affecting educational achievement.
-
 When hiring: What has been the track record of a particular test in predicting subsequent
 performances— both absolutely and in comparison with alternative criteria?
 
@@ -160,9 +151,11 @@ Groups that score low on abstract questions in IQ tests.
 FALLACY: group differences in scores on these tests are due primarily to the words used in these tests or to the
 culturally loaded subjects in the questions.
 
+```
 REFUTATION: these groups may not be interested in abstractions in their lives.
 Also, what are the tests supposed to be for? These skills are needed in many careers in this world.
 A culture-free test might be appropriate in a culture-free society— but there are no such societies.
+```
 
 1st tie forced to accept 2nd tier, 2nd tier accept 3rd tier, domino effect.
 
@@ -178,11 +171,9 @@ comfortable and thus able to do their best work academically.
 FACT: In other words, highability minority youngsters do better in classes that are intellectually
 homogeneous, rather than racially homogeneous.
 
-FACT: That is the fact that females are several times as numerous as males among blacks with high IQs,
-
 VOCAB: vituperation
 
-------LIBERALISM AND MULTICULTURALISM--------
+## LIBERALISM AND MULTICULTURALISM
 
 An American Dilemma, 1944 book, mentions that American racial policies, especially in
 the South, marked a glaring contradiction between the nation’s fundamental
@@ -218,7 +209,7 @@ Detroit, Philadelphia, and Washington by the end of the nineteenth century
 a causal analysis of the major changes that occurred in residential and other restrictions on blacks cannot explain such
 changes by simply saying “racism.
 
-----> MULTICULTURALISM
+## MULTICULTURALISM
 
 Before civil rights act of 1964, somce places prevented race from being recorded on job applications.
 
@@ -236,7 +227,7 @@ here from Europe.
 
 discrimination and cancer both exists, but intergroup differences cannot be assumed to be due to discrimination any more than deaths can be assumed to be due to cancer.
 
-----------------RACE AND COSMIC JUSTICE---------------
+## RACE AND COSMIC JUSTICE
 
 social justice is more like cosmic justice: since it seeks to undo disparities created by circumstances, as well as those
 created by the injustices of human beings.
@@ -255,7 +246,7 @@ fault.
 
 achieve same results as others without having to change, in order to acquire same cultural prereqs as others acquired without changing, would be cosmic justice.
 
-LESSON: caste system preaches resignation to one’s fate and multiculturalism preaches resentment of one’s fate
+**LESSON**: caste system preaches resignation to one’s fate and multiculturalism preaches resentment of one’s fate
 
 “blaming the victim.” - confuses blame with causation.
 EVIDENCE: less educated blacks moving to northern cities ruined race relations (couldn't be blamed for being born in the south)
@@ -265,29 +256,37 @@ seeing fleshand-blood contemporaries as simply part of an intertemporal abstract
 other injusticies of the past.
 
 FALLACY: system that is causing the problem
+
+```
 REFUTATION: clearly something in circumstances that makes it more likely for blacks to commit crimes, but that doesn't tell us
 what something is.
+
+```
 
 social justice -> anti social justice, sacrificing innocent people's wellbeing.
 
 FALLACY: The fact that so many black families today consist of women with fatherless children has been said by many to be a legacy of slavery,
+
+```
 REFUTATION: Yet most black children grew up in two-parent families, even under slavery itself, and
 for generations thereafter.
 
-------------THE FALSE DICHOTOMY---------
+```
+
+## THE FALSE DICHOTOMY
 
 Members of lagging groups who take this dichotomy seriously must either confess to being inferior, or blame others for it.
 Members of more fortunate groups are left with a choice between arrogance and guilt, when confronted with the false dichotomy
 gaps are unlikely to close within a lifetime.
 
--------> Race Industry
+## Race Industry
 
 NAACP, ethnic studies departments / programs. Legal profession represeted in racial issues.
 diversity consultants in private industry, community organizers in ethnic neighborhoods..
 
 Policies may enhance the race industry itself, without benefitting the people.
 
-----Affirmative Action---------
+## Affirmative Action
 
 Often times, these programs have expiration date, but that almost always keeps getting extended, and never ended.
 
@@ -299,20 +298,11 @@ institution.
 Another way of saying the same thing is that different groups may fail to meet relevant standards for any
 number of possible reasons. But the burden of proof is put on the accused
 
-gov. leverage can paralyze businesses.
-
-----Can make accusations of racism against banks, banks pay money, accusation withdrawn.
+Can make accusations of racism against banks, banks pay money, accusation withdrawn.
 
 In a decade, more than a trillion dollars have been extracted from financial and other
 business organizations by community activist organizations, using a variety
 of tactics, according to the National Community Reinvestment Coalition
-
-Takeaway: intellectuals are in a remarkably different position
-from that of other decision-makers, and that this is a fact to be taken into
-account when trying to understand the nature of their decisions.
-
-Does not mean that the rest of us can neglect to think for ourselves or to demand hard evidence from those with soaring
-visions and impressive rhetoric.
 
 equality -> inequities -> discrimination, equality is not automatic!!!
 
