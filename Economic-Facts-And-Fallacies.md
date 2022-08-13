@@ -1,4 +1,4 @@
-Fallacies are both plausible and logical, with something missing. 
+Fallacies are both plausible and logical, with something missing.
 results in political support, bad results.
 
 Fair, social jusice, equality: appealing for politicians.
@@ -17,9 +17,7 @@ Whole neighborhoods have been demolished and "redeveloped" with upscale housing 
 a means of "revitalizing" the community. Often the federal government subsidizes this operation.
 Rich people have to be transferred somewhere, as well as displaced people.
 
-Slums in front of Capitol in DC were moved, but turned other places into slums.
-
-CHESS-PIECE FALLACY: 
+CHESS-PIECE FALLACY:
 Adam Smith: who "seems to imagine that he can arrange the different members of a great society with as much ease as
 the hand arranges the different pieces upon a chess-board.
 
@@ -34,7 +32,7 @@ No matter how much is done to promote health, more could be done. No
 matter how safe things have been made, they could be made safer. And no
 matter how much open space there is, there could be still more.
 
-Resources have alternative uses that could be more productive. 
+Resources have alternative uses that could be more productive.
 
 Open ended demands encourage more gov. misallocation of resources.
 
@@ -46,16 +44,17 @@ OVERPOPULATION FALLACY: Photographs of crowded slums in Third World countries ma
 insinuate the conclusion that "overpopulation" is the cause of poverty, when
 in fact poverty is the reason for the crowding among people unable to afford
 the transportation costs of commuting or much urban living space, but who
-are yet unwilling to forego the benefits of urban living. 
+are yet unwilling to forego the benefits of urban living.
 
-CONGESTION: 
+CONGESTION:
 
 Fact: The annual costs in both wasted fuel and wasted time have been estimated at more than a thousand dollars per rush hour traveler in
 Washington, Dallas, Adanta and San Francisco, and at more than $1,500 in Los Angeles
 
 Stockholm and Singapore tried to charge people who drive different amounts. Traffic declined in numerous ways.
+
 - showed that "free" roadways contribute to congestion, as most "free" things are used more extensively than when the
-costs of people's behavior are conveyed to them direcdy through prices. 
+  costs of people's behavior are conveyed to them direcdy through prices.
 
 - More roads wouldn't increase congestion.
 
@@ -70,19 +69,19 @@ construction and land, attract more builders who wish to share in these
 lucrative returns on investments in home building.
 
 Affordable housing: this might be subsidized by taxpayers, or making it mandatory that private builders
-sell a certain percentage of their housing at prices "below market".  
+sell a certain percentage of their housing at prices "below market".
 
 FACT: Moreover, where these prices represent losses to the builders,
 these losses are made up by raising the prices of their other housing even
 higher.
 
 "Planning": government's suppression of other people's plans by superimposing on them a
-collective plan, created by third parties, 
+collective plan, created by third parties,
 
 What held in check the ability of government officials to micro-manage housing markets
 were property rights.
 
-Consequences of no property rights: rich people can fence off their communities. 
+Consequences of no property rights: rich people can fence off their communities.
 
 Those existing residents who choose to sell to developers have just as much right
 to do so under the Constitution as those who prefer to keep the community
@@ -93,12 +92,12 @@ others.
 
 Parking lots and land prices....
 
-FALLACY: Slums aren't all filled with criminals. Slums needed to be demolished since they are dirty. 
+FALLACY: Slums aren't all filled with criminals. Slums needed to be demolished since they are dirty.
 It appeared on the national level as far back as the administration of Herbert Hoover and was
 developed further during the subsequent New Deal administration of
 Franklin D. Roosevelt.
 
-Eminent Domain: gov supposed to pay proper money to people whose properties they seize. 
+Eminent Domain: gov supposed to pay proper money to people whose properties they seize.
 Appraisers have conflict of interest: based on their appraisal, gov may have to pay more or less.
 Gov wants to "redevelop" a given area means that the market value of properties in that area will fall
 
@@ -107,9 +106,9 @@ the value of what they take, not the value of what the property owner has
 lost.
 
 Logic: what's being built is more valuable then what's torn down, then should be possible to compensate losers for their losses and still
-have left over. 
+have left over.
 
-People who exercise eminent domain have incentives to exercise their authority far beyond the point where is a benefit. 
+People who exercise eminent domain have incentives to exercise their authority far beyond the point where is a benefit.
 changing people's location does not change their behavior
 
 Urban Sprawl Fallacy: The underlying basis for the criticisms rests on a
@@ -147,7 +146,7 @@ postgraduate degrees also declined
 Evidence: In 1950, 94 percent of men but only 33 percent of women were in the labor force. This gap of 61 percentage points
 narrowed to 45 percentage points by 1970. At the end of the century, the
 gap was only 12 percentage points, as 86 percent of men and 74 percent of
-women were in the labor force. 
+women were in the labor force.
 
 However, even if we were to find zero economic differences between those women and men who were truly comparable, that
 would not mean that women and men as a whole had the same income or
@@ -172,14 +171,14 @@ to choose occupations that require very long hours.
 
 In principle, family responsibilities can be divided equally between
 husband and wife, father and mother. In practice, however, that has not
-been the norm in most places and in most periods of history. 
+been the norm in most places and in most periods of history.
 
 In short, there are economic incentives both for and against
-discrimination, and the net balance of their effects is an empirical question. 
+discrimination, and the net balance of their effects is an empirical question.
 
 Nor are single women and single men comparable, when "single" people
 include people who have been married for years, and have then been
-divorced. 
+divorced.
 
 There have been, and continue to be, more women than men who are part-time workers
 
@@ -206,7 +205,7 @@ Having an endowment means that an institution does not have to earn its way by t
 services to a satisfied clientele.
 
 The principle of faculty self-governance is therefore central to the
-operation of an academic institution. 
+operation of an academic institution.
 
 In these areas outside their expertise, including areas in which there is no such thing as expertise, professors can simply
 indulge their personal prejudices at no cost to themselves.
@@ -232,7 +231,7 @@ evals, hurting their careers.
 professors are able to confine the ideological spectrum to those views consonant with their own,
 
 For example, reading materials available on-line or on DVDs
-can replace books and bound volumes of academic journals, but if the accrediting agency uses 
+can replace books and bound volumes of academic journals, but if the accrediting agency uses
 number of books in a college to make rankings, thats a conflict of interest.
 
 Some law schools, for example, hire many practicing attorneys and judges
@@ -263,13 +262,13 @@ FALLACY: Colleges definitely add value
 REFUTATION: But people whose education stops before college cannot be assumed to be the same in orientation, values,
 priorities, or ability as people who go on to college. Therefore income
 differences between them cannot be automatically attributed to what was
-taught in college. 
+taught in college.
 
 What is the definition of dropout?
 
 Example: This means that the incomes of people who dropped out of high school and later received an academic
 degree without bothering to go back and get a high school diploma are very
-unlikely to be counted in statistics on the incomes of high school dropouts. 
+unlikely to be counted in statistics on the incomes of high school dropouts.
 
 What this means is that anything colleges and universities choose to
 spend money on is called a "cost" by them— and is then used to justify
@@ -284,15 +283,15 @@ FALLACY: their costs for educating a student are greater than the price they cha
 
 REFUTATION: But, since teaching is one of the joint products of an academic institution, along with
 research and other ancillary activities, the meaning of such a statement is
-elusive. 
+elusive.
 
-Argument: colleges and universities lose money on every student, hard to explain why they focus so much 
-on recruitment. 
+Argument: colleges and universities lose money on every student, hard to explain why they focus so much
+on recruitment.
 
 when a college does not have enough of the students it admitted actually
 enroll to fill up the dormitories, the empty rooms may not reduce the cost
 of upkeep as much as the missing students' missing tuitions reduce the
-college's revenues. 
+college's revenues.
 
 With the passing years, more and more institutions
 are hiring increasing numbers of faculty members who do not have tenure
@@ -304,7 +303,7 @@ freshman year, and who in some cases are not likely to teach them unless and
 until they reach graduate school
 
 FACT: colleges and universities routinely engage in price
-discrimination that would get a private business prosecuted under the antitrust laws. 
+discrimination that would get a private business prosecuted under the antitrust laws.
 
 Thus if a particular student from a family with a particular income, bank
 balance, home equity, etc., had applied to Harvard, Yale, and M.I.T., these
@@ -338,11 +337,11 @@ employees, part time make less then full time.
 
 The inflationary bias of the consumer price index results from the fact
 that it counts the prices of a given collection of goods over time, while those
-goods are themselves changing over time. 
+goods are themselves changing over time.
 
 Another inflationary bias to the consumer price index is that it counts
 only those things that most people are likely to buy. Newer expensive products are not counted
-until they fall in price for more to afford. 
+until they fall in price for more to afford.
 
 FALLACY: jobs being lost in the American economy— whether to foreign competition or to technological change—
 are high-wage and the new jobs being created are low-wage jobs.
@@ -356,22 +355,22 @@ incomes are low and people who are genuinely poor in the sense that they
 are an enduring class of people whose standards of living will remain low for
 many years, or even for life.
 
-Fallacy: American middle class is declining 
+Fallacy: American middle class is declining
 
 REFUTATION: In other words, the number of middle class people
 declines when there is a fIXed definition of "middle class" in a country with
-rising levels of income. 
+rising levels of income.
 
 FALLACY: Corporate executive pay means "greed"
 
 REFUTATION: Given the billions of dollars at stake in corporate decisions, $59 million
 a year can be a bargain for someone who can reduce mistakes by 10 percent
-and thereby save the corporation $100 million. 
+and thereby save the corporation $100 million.
 
 Source of moral outrage: if it's based on overcompensation, what about inherited wealth??
 Like most economic transactions, the hiring of a corporate
 CEO is not a zero-sum transaction. It is intended to make both parties
-better off. 
+better off.
 
 Third party observers may find it galling that some people seem to be
 rewarded handsomely for failing. But third parties are neither paying their
@@ -385,7 +384,7 @@ reality.
 
 If the value of the services rendered exceeds the pay, then both
 consumers and stockholders are better off, not worse off, whether the person
-hired is a corporate CEO or a production line employee. 
+hired is a corporate CEO or a production line employee.
 
 Replace commercial airline pilot with a crop duster pilot at lower pay, would that make the
 stockholders and passengers better off??
@@ -409,14 +408,14 @@ tell white people their full names
 
 While, in the late twentieth century, an absolute majority of those black
 families with no husband present lived in poverty, more than four-fifths of
-black husband-wife families did not. 
+black husband-wife families did not.
 
 Nationally, the most urban ghetto riots occurred during the
 Johnson administration but there was not one major urban riot during the
 entire eight years of the Reagan administration.
 
 In general, discrimination must take its place among the various other factors behind
-intergroup economic differences. 
+intergroup economic differences.
 
 Somewhat similar conclusions were implicit in W.E.B. DuBois'
 nineteenth century study which concluded that if all white people lost their
@@ -435,7 +434,7 @@ leaders to take a cut of the money themselves.
 
 In this joke, one friend says to another that statistics show that a man is hit by
 a car in Manhattan once every 20 minutes. To which the other replies, "He
-must get awfully tired of that." 
+must get awfully tired of that."
 
 Statistics are no better than the methods and definitions used in
 collecting them. Without scrutinizing those methods and definitions, we
@@ -445,5 +444,3 @@ cannot assume that comparable people are being compared.
 a high ratio of people to wealth is said to explain poverty, when all that it
 does in reality is demonstrate the rules of arithmetic, rather than any fact
 about the real world.
-
-

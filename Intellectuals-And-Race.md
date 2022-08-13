@@ -304,8 +304,6 @@ In a decade, more than a trillion dollars have been extracted from financial and
 business organizations by community activist organizations, using a variety
 of tactics, according to the National Community Reinvestment Coalition
 
-equality -> inequities -> discrimination, equality is not automatic!!!
-
 Tracing intergroup differences is long with little emotional benefit. Instead, the powerful think they are superior
 and the weak think they are opressed; has destroyed many societies.
 
