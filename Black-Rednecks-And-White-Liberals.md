@@ -207,7 +207,7 @@ LESSON:
 
 ## Germans
 
----------------------ABOUT GERMANY AND ITS HISTORY---------------------------------------
+### ABOUT GERMANY AND ITS HISTORY
 
 - eastern europe lacked natural resources, rivers in western europe flow into open seas, while eastern rives don't
 - climate also benefits western europe
