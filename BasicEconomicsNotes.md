@@ -1,4 +1,4 @@
-DEFINITION: economics is the study of use of scarce resources which have alternative use
+## **DEFINITION**: economics is the study of use of scarce resources which have alternative use
 
 It is also, and more fundamentally, about producing that output from scarce resources in the first place—turning
 inputs into output.
@@ -6,35 +6,33 @@ inputs into output.
 alternative uses: water can be used to produce ice or steam by itself or innumerable mixtures and compounds in combination with other things.
 
 inefficiently turning input to output makes lagging economies. Russia is an example.
-volume of goods and services that determine whether society is prosperous
 
-LESSON: Look at incentives they create, not simply the goals to pursue
+- volume of goods and services that determine whether society is prosperous
+
+LESSON: Look at **incentives** they create, not simply the goals to pursue
 
 prices do the job of conveying market info, and not appointed gov. bureaucrats, But it is not the prices that cause the scarcity.
 Prime Minister Margaret Thatcher in her memoirs said that Mikhail Gorbachev “had little understanding of economics,”
 
-government declared that something scarce was a basic right, that doesn't change the fact that its still scarce
-free market system is a profit and loss system
+**Fact**: government declared that something scarce was a basic right, that doesn't change the fact that its still scarce
 cause natural resources to move from place to place: Japanese are willing to pay higher prices for natural resources, so the supply chain moves there
 
-Soviet Union planned economy: where a chronic problem was a piling up of unsold goods in warehouses at the very time when there were 
+Soviet Union planned economy: where a chronic problem was a piling up of unsold goods in warehouses at the very time when there were
 painful shortages of other things that could have been produced with the same resources. Central planning is too complicated for humans
 
-Soviet enterprises always ordered more from gov. then needed, thus allocation of resources was very poor and inefficient. 
+Soviet enterprises always ordered more from gov. then needed, thus allocation of resources was very poor and inefficient.
 
 "Greed" - may reflect changed market circumstances
 
-LESSON: the price which one producer is willing to pay for any given ingredient becomes the price that
+**LESSON**: the price which one producer is willing to pay for any given ingredient becomes the price that
 other producers are forced to pay for that same ingredient.
 
-LESSON: resources tend to flow to their most valued uses when there is price competition in the marketplace
+**LESSON**: resources tend to flow to their most valued uses when there is price competition in the marketplace
 
 Reality: From the standpoint of society as a whole, the “cost” of anything is the value that it has in alternative uses.
 Capitalist system forces mistakes to be corrected while socialist systems don't
 
 Marx and Engels were both critical of government directly controlling economy
-
-No fixed or quantifiable "need".
 
 LESSON: the quantity supplied varies directly with the price
 
@@ -42,68 +40,59 @@ LESSON: the quantity supplied varies directly with the price
 
 LESSON: larger quantity is supplied at higher prices than at lower prices
 
-CLAIM: Corporates are paid more then they are "really worth".
+**CLAIM**: Corporates are paid more then they are "really worth".
 
 Prices going up/down can mislead people into thinking its deviating from "real" worth.
 
-Objective vs subjective price: If paper's real value was 5 dollars, then if i offer $5 to the seller, then i wouldn't be gaining anything
-from the transaction, which makes it pointless. Also, one side would be getting worse on the deal, so they wouldn't want to do this....
+Objective vs subjective price: If paper's real value was 5 dollars, then if i offer $5 to the seller, then i wouldn't be gaining anything from the transaction, which makes it pointless. Also, one side would be getting worse on the deal, so they wouldn't want to do this....
 
 "greed" or higher prices may mean more efficiency
 
-CLAIM: We have unmet needs in our society
+**CLAIM**: We have unmet needs in our society
 
-LESSON: there will always be unwanted needs based on definition above. Merely demonstrating an unmet need is not sufficient to say 
+LESSON: there will always be unwanted needs based on definition above. Merely demonstrating an unmet need is not sufficient to say
 that it should be met— not when resources are scarce and have alternative uses.
 
 Robbing peter to pay paul, then robbing paul to pay someone else, infinite loop
 
 should be seen as tradeoffs, not unwanted needs
 
----------------------------------------------------------------PRICE CONTROLS------------------------------------
+## PRICE CONTROLS
+
 LESSON: price changes are based on EXISTING PRICES
 
 rent controls lead to apartments with 1 person living inside, decline in building permits, housing quality declines,
 buildings abandoned since it is unprofitable when combined witih utility costs, less rent costs for wealthy, etc nyc
 
-"affordable housing"
-
 SCARCITY VS SHORTAGE - can have scarcity without shortage and vice versa
 
-severe housing shortage in US after ww2 even though ratio of housing to people were the same. 
-sf earthquake in 1906, 
-Rising prices not only allocate existing housing, they provide incentives for rebuilding and for renters to use less space in 
-the meantime, as well as incentives for those with space in their homes to take in roomers while rents are high.
+severe housing shortage in US after ww2 even though ratio of housing to people were the same.
+sf earthquake in 1906,
 
-HOARDING:
+**Big Idea** Rising prices not only allocate existing housing, they provide incentives for rebuilding and for renters to use less space in the meantime, as well as incentives for those with space in their homes to take in roomers while rents are high.
 
-cannot hoard perishable items
+### HOARDING:
 
-price controls allow lower priority uses to preempt higher priority uses, increasing theseverity of the shortages, 
+price controls allow lower priority uses to preempt higher priority uses, increasing the severity of the shortages,
 whether of apartments or of gasoline.
 
-gray market in soviet union (basically black market)
+### QUALITY GOES DOWN
 
-QUALITY GOES DOWN
-
-under free market conditions, quality will go down since there is such strong demand at a low price (will sell anyway)
+quality will go down since there is such strong demand at a low price (will sell anyway)
 patients spend less time with physicians in gov. run healthcare systems, also, patients go more frequently, delaying invasive procedures
 
 price set above the free market level tends to cause more to be supplied than demanded, creating a surplus.
-in great depression, gov bought a lot but it all was wasted while people were starving
+In great depression, gov bought a lot but it all was wasted while people were starving
 
 sugar price support programs have big bipartisan support in congress (interest groups), gov subsidize production made things expensive
 most agricul.subsidies go to big corporate farms, not family ones
 
-subsidize farmers buy forcing prices up, then subsidize customers by bringing prices down again
+**WTF**: subsidize farmers buy forcing prices up, then subsidize customers by bringing prices down again
 
 The greater the difference between free market prices and the prices decreed by price control laws, the more severe the consequences of price
 control.
 
-However, if the prices of flashlights skyrocket, a family that might otherwise buy multiple flashlights for its members is more likely to make do
-with just one of the unusually expensive flashlights—which means that there will be more flashlights left for others.
-
------------------------------------------------------------------------------------------------------------
+However, if the prices of flashlights skyrocket, a family that might otherwise buy multiple flashlights for its members is more likely to make do with just one of the unusually expensive flashlights—which means that there will be more flashlights left for others.
 
 Someone once pointed out that Newton was not the first man who saw
 an apple fall. His fame was based on his being the first to understand its
@@ -113,46 +102,46 @@ alternative ways to ration: It might be possible for sellers to ration how much 
 to one buyer. But this puts the seller in the unenviable role of offending some
 of his customers by refusing to let them buy as much as they want
 
---------------------------------------------SYSTEMIC CAUSATION-----------------------------------
+## SYSTEMIC CAUSATION
 
 Economics is concerned with what emerges, not what anyone intended
-- there is a tendency toward intentional explanations of systemic events in the economy, when people are
-unaware of basic economic principles
 
-It often costs more to deliver goods and services in low-income neighborhoods， why things in the hood are expensive
+- there is a tendency toward intentional explanations of systemic events in the economy, when people are
+  unaware of basic economic principles
+
+It often costs more to deliver goods and services in low-income neighborhoods, why things in the hood are expensive
 prices ration scarcity, not create that scarcity
 
-Failure to supply goods, as a result of government restrictions, must be
-sharply distinguished from an inability to produce them.
+Failure to supply goods, as a result of government restrictions, must be sharply distinguished from an inability to produce them.
 
 However, competing indirectly by having to keep your demands within the limits of your own pocketbook is very different from
 seeing your desires for government benefits thwarted directly by the rival claims of some other group.
 
-What price controls, subsidies, or other substitutes for price allocation do is reduce the incentives
-for self-rationing. People become excessive in their use.
+> What price controls, subsidies, or other substitutes for price allocation do is reduce the incentives for self-rationing. People become excessive in their use.
 
------------------------------------------INSTRUMENTAL SUBSTITUTION--------------------------------------
+---
+
+## INSTRUMENTAL SUBSTITUTION
 
 Health is more important then music, but 20 year supply of band aids is not worth more then giving up music entirely
 LAW: categorical priority, declaring one thing absolutely important over other and setting policies
 
-A diamond may be worth much more than a penny, but enough pennies will be worth more than any
-diamond.
+> A diamond may be worth much more than a penny, but enough pennies will be worth more than any diamond.
 
-That is why incremental trade-offs tend to produce better results than categorical priorities  
+That is why incremental trade-offs tend to produce better results than categorical priorities
 
 regulations: cost exceed benefits??
 
------------------------------------------SUBSIDIES AND TAXES--------------------------------------
-subsidize “good” things and tax “bad” things.
+## SUBSIDIES AND TAXES
+
+> subsidize “good” things and tax “bad” things.
 
 taxes and subsidies misstate the relative scarcities of things and the relative values that
 the users of these things put on them.
 
-TAKEAWAY: Making anything artificially cheap usually means that it will be
-wasted, whatever that thing might be and wherever it might be located.
+> TAKEAWAY: Making anything artificially cheap usually means that it will be wasted, whatever that thing might be and wherever it might be located.
 
-----------------------------------------MEANING OF COSTS-------------------------------------------
+## MEANING OF COSTS
 
 removing things from cost-benefit analysis is question like: How can you put a price on art?
 
@@ -163,21 +152,18 @@ Ultimately, to society as a whole, costs are the other things that could have be
 For example, politicians who say that they will “bring down the cost of medical care” means
 reducing the price of medicines and reducing the fees charged by doctors or hospitals.
 
-But the cost of medical care (training doctors, making new medicines) will not go down.
+> But the cost of medical care (training doctors, making new medicines) will not go down.
 
 What all these schemes have in common is that they exempt some things from the process of weighing costs
 and benefits against one another
 
-LESSON: people don't need to know all the in depth details of products when picking and choosing because those differences are
-reflected in the price itself. 
+> LESSON: people don't need to know all the in depth details of products when picking and choosing because those differences are reflected in the price itself.
 
 In a central planned economy, good allocation will require a lot of knowledge about particular wants and needs in different areas
 
-----------------------------------------RISE & FALL OF BUSINESSES-------------------------------------------
+## RISE & FALL OF BUSINESSES
 
-FACT:  From the 1780s to the 1830s, the financial center of the United States was Chestnut Street in Philadelphia
-
-Fall of A&P grocery stores.
+### Fall of A&P grocery stores.
 
 Huge supermarkets in shopping malls with vast parking lots decisive advantages
 over neighborhood stores—such as those of A & P. People bought more with less trips, thanks to cars and freezers.
@@ -190,136 +176,121 @@ consequences of losses are bad for business, but good for overall economy and co
 An economy based on prices, profits, and losses gives decisive advantages to those with greater
 knowledge and insight.
 
-mail order houses
-
-JC Penney set up stores in populous urban areas, and forced mail order houses to change
-
-LESSON: in central planned economy, new insights by a citizen is is ignored because they don't have the power to innovate, 
-so bad policies continue.
-
-toyota vs gm vs ford; gm and ford are making more money then toyota
+> LESSON: in central planned economy, new insights by a citizen is is ignored because they don't have the power to innovate, so bad policies continue.
 
 competitors carry conventional strategies into hot markets, which fails often
 
-LESSON: Rising stock prices mean what matters is that such a rise in stock prices usually means that either the 
+LESSON: Rising stock prices mean what matters is that such a rise in stock prices usually means that either the
 business is now serving more customers, or offering them better quality or lower prices, or is operating at
 lower cost
 
-QUESTION: With profits eliminated, prices should have been lower in socialist countries, according to theory, 
+QUESTION: With profits eliminated, prices should have been lower in socialist countries, according to theory,
 and the standard of living of the masses correspondingly higher. Why then was it not that way in practice?
 
-socialism's inefficiency would not exist in capitalism, (bankruptcies and losses). 
-Put differently, profit is a price paid for efficiency.
+socialism's inefficiency would not exist in capitalism, (bankruptcies and losses).
 
-If in fact the cost of profits exceeded the value of the efficiency they promote, then non-profit 
+> Put differently, profit is a price paid for efficiency.
+
+If in fact the cost of profits exceeded the value of the efficiency they promote, then non-profit
 organizations or government agencies could get the same work done cheaper or better than profit-making enterprises.
 
 The only person whose payment is contingent on how well the business is doing is the owner of that business.
 
-profits are not arbitrary charges
+profits on sale vs profit on investment are different.
 
-profits on sale vs profit on investment are different. 
+investment profits are important not only to investors but the economy, as it determines rate of profits over entire sectors,
+so the money is appropriately flowing into the proper areas.
 
-investment profits are important not only to investors but the economy, as it determines rate of profits over entire sectors, 
-so the money is appropriately flowing into the proper areas. 
-
-EXAMPLE: bread is sold quicker then pianos, so pianos have higher markup if owners want a good annual return.
+> EXAMPLE: bread is sold quicker then pianos, so pianos have higher markup if owners want a good annual return.
 
 cut profits on items sold, more can be used for investment, growing the business, not a zero sum game
 ex: supermarkets (volume of sales)
 
-larger markups in price, but lower rates of investment profit - stores in the hood
-
------------------ECONOMIES OF SCALE------------------------
+## ECONOMIES OF SCALE
 
 No such thing as "the cost", its different for production volume
-Large fixed costs are among the reasons for lower costs of production per unit of output as the amount of output increases. 
+Large fixed costs are among the reasons for lower costs of production per unit of output as the amount of output increases.
 
 Lower costs as volume increases: scaling
 scaling can help reduce costs despite advertising
 
 there is a point where cost of production / unit doesn't decline as production increases
 “A.T. & T. is so big that, if you gave it a kick in the behind today, it would be two years before the head said ‘ouch.’”
- 
-if a company is too big, then it can be hard to manage, and bureaucracy will prevent quick responses to the market
+
+> if a company is too big, then it can be hard to manage, and bureaucracy will prevent quick responses to the market
 
 smaller and specialized hospitals are safer for patients then large hospitals
 
 soviet farms were 10x american farms, but very inefficient
 
--------------------CAPACITY-------------------------
-cost varies according to existing capacity
-capacity needs to be able to handle peak volume, so excess capacity is possible
+## CAPACITY
 
-cruise ship example: 2x # of passeng. during peak season may require extra ship, but 2x # of passeng. during offseason doesn't.
-this means discounts are given in offseason.
+- cost varies according to existing capacity
+- capacity needs to be able to handle peak volume, so excess capacity is possible
 
----------------PASSING DOWN COSTS-------------------
+- cruise ship example: 2x # of passeng. during peak season may require extra ship, but 2x # of passeng. during offseason doesn't.
+  this means discounts are given in offseason.
+
+## PASSING DOWN COSTS
 
 passing down costs is not automatic and depends on competition faced by business, and how many of the competing companies have the
 same cost increases or decreases.
 
-EXAMPLE: If you ship your product to market by railroad and the railroads raise their freight charges, you can pass that on to the
-buyers only to the extent that your competitors also ship their product by rail. If competitors using trucks, then they can simply
-take your customers away.
-
-MIDDLEMEN: Beyond some point, there are other people with different skills and experience who can perform the next step in the 
-sequence more cheaply or more effectively—
-
-More middlemen in poor countries, doesn't mean less efficient.
+> If you ship your product to market by railroad and the railroads raise their freight charges, you can pass that on to the
+> buyers only to the extent that your competitors also ship their product by rail. If competitors using trucks, then they can simply
+> take your customers away.
 
 VOCAB: remunerative
 
-----------------------SOCIALIST ECONOMIES------------------
+## SOCIALIST ECONOMIES
 
-socialist economies also lack the kinds of financial incentives that lead each given producer in a capitalist economy to
-limit its work to those stages of production and distribution at which it has lower costs than alternative enterprises. 
+- Socialist economies also lack the kinds of financial incentives that lead each given producer in a capitalist economy to
+  limit its work to those stages of production and distribution at which it has lower costs than alternative enterprises.
 
 soviet economy: self sufficient, even though others could make this for cheaper (gov. deadlines over efficiency)
 soviet inventories always overflowing, doesn't benefit public and adds costs.
 transportation / reliable suppliers allows for small inventory, since connection to customer is reliable and trustworthy
 
-in africa, geography makes a difference as well in big inventories. 
-
-------------------BIG BUSINESS-------------------------------
+## BIG BUSINESS
 
 - Characteristics of big business: economies of scale and diseconomies of scale,
 - they typically take the form of a corporation, rather than being owned by a given
-individual, family, or partnership. 
+  individual, family, or partnership.
 
 Harvard Corporation was US's first corporation
 
 A corporation, however, has a separate legal identity, so that the individual owners of the corporation are not personally
 liable for its financial obligations
 
-limited liability: millions of shareholders control company through stocks. 
+limited liability: millions of shareholders control company through stocks.
 
-LESSON:  The “Ltd.” or “Inc.” after a corporation’s name warns creditors in advance, so that they can
+LESSON: The “Ltd.” or “Inc.” after a corporation’s name warns creditors in advance, so that they can
 limit their lending accordingly and charge interest rates adjusted to the risk.
 
-Claim: corporation separates ownership and management, point for criticism.
+**Claim**: corporation separates ownership and management, point for criticism.
 REFUTATION: people may not want to manage despite owning a share of company.
 
-CLAIM: corporations are undemocratic
+**CLAIM**: corporations are undemocratic
 REFUTATION: stockholders and even consumeres may not want that.
 
-----------------EXECUTIVE COMPENSATION----------------------
+## EXECUTIVE COMPENSATION
 
 CLAIM: Corporate executives are paid too much
 
 REFUTATION: comparing the pay of CEOs of public corporations, owned by many stockholders, with the pay of CEOs of
-corporations owned by a small number of large financial institutions. 
+corporations owned by a small number of large financial institutions.
 
 Financiers who have their own money at stake pay CEO's more.
 
-Golden parachute: cost more later for a bad ceo, so should just pay the money and let bad ceo go
+> Golden parachute: cost more later for a bad ceo, so should just pay the money and let bad ceo go
 
--------------MONOPOLIES AND CARTELS---------------------
+## MONOPOLIES AND CARTELS
 
 Most big businesses are not monopolies and not all monopolies are big business.
+
 - consumers of a monopolist’s product are foregoing the use of
-scarce resources which would have a higher value to them than in alternative
-uses. 
+  scarce resources which would have a higher value to them than in alternative
+  uses.
 
 monopolist “restricts output”, not the intent or the monopolist doing so
 monopoly's higher price - less purchases - less production
@@ -327,27 +298,18 @@ monopoly's higher price - less purchases - less production
 cartels need a way to enforce internal compliance.
 smaller businesses fight cartels by offering at lower prices, so cartels who charge for higher profits are at risk
 
-------------ANTI TRUST LAWS---------------------------
+## ANTI TRUST LAWS
 
 Ideally, a regulatory commission would set prices where they would have been if there were a competitive marketplace.
-FACT: It has been estimated that the cost of supplying the electricity required
-to run a dishwasher, for example, at a time of peak electricity usage, can be
-100 times greater than the cost of running that same dishwasher at a time
-when there is a low demand for electricity.
 
 - average costs imposed by regulators are irrelevant when avg costs suddenly become high or low
-- existing regulation agencies 
-- civil aeronautics board kept out competitor airlines, so air fares were high. 
+- civil aeronautics board kept out competitor airlines, so air fares were high.
 
---------COMPETITION VS COMPETITORS--------------------
+## COMPETITION VS COMPETITORS
 
-LESSON: competition is a condition in the marketplace
-LESSON: what is detrimental to competition and what is detrimental to competitors. 
-prima facie case based on gross numbers, to make winning case for opponents impossible
+LESSON: what is detrimental to competition and what is detrimental to competitors.
 
 free competition is replaced by gov. intervention to force companies to facilitate competitors, it seems like it protects competitors
-
-kodak forced to sell its processing and film business even tho it was needed to facilitate the quality of its products
 
 CLAIM: standard practice in US courts: is to describe the percentage of sales made by a given company as the
 share of the market which it “controls.”
@@ -356,46 +318,45 @@ if one material is controlled by monopoly and is expensive, then it makes substi
 
 outside importers of same product doesn't mean that monopoly exists even if only one company in a country makes same products
 
-LESSON: In economic terms: when higher prices for A cause people to buy more of B, then A and B are
-substitutes, whether or not they look alike or operate alike.
+> LESSON: In economic terms: when higher prices for A cause people to buy more of B, then A and B are
+> substitutes, whether or not they look alike or operate alike.
 
-A company which cannot keep competitors out is not a monopoly, no matter what percentage of the market it may have at a given
-moment. 
+> A company which cannot keep competitors out is not a monopoly, no matter what percentage of the market it may have at a given
+> moment.
 
 us law prohibits collusion to fix prices
-preventing monopoly in india, most indians went outside to do business
 
 BUSINESSES VS NON MARKET PRODUCERS
 
 competing enterprises have been largely confined to market economies
 
-government agencies are monopolies, and are very often less efficient compared to private companies
+**Fact**: Government agencies are monopolies, and are very often less efficient compared to private companies
 
-winner and losers shouldn't be confused with imbalances
+**Fact**: Winner and losers shouldn't be confused with imbalances
 
-EXAMPLE: London’s The Economist magazine likewise pointed out that in India one can “watch the tellers in a state-owned bank chat amongst 
+EXAMPLE: London’s The Economist magazine likewise pointed out that in India one can “watch the tellers in a state-owned bank chat amongst
 themselves while the line of customers stretches on to the street.”
 
-Behind all of this is the basic fact that a business is selling not only a physical product, but also the reputation which surrounds that product.
+> Behind all of this is the basic fact that a business is selling not only a physical product, but also the reputation which surrounds that > product.
 
 LESSON: The fact that scarce resources have alternative uses implies that some enterprises must lose their
 ability to use those resources, in order that others can gain the ability to use them.
 
-farm and farm worker declines led to greater # of industry workers. 
+farm and farm worker declines led to greater # of industry workers.
 
-LESSON: To know what the new discoveries were going to be would be to make the discoveries before the discoveries were made. It is a
-contradiction in terms.
+> LESSON: To know what the new discoveries were going to be would be to make the discoveries before the discoveries were made. It is a
+> contradiction in terms.
 
 LESSON: Neither enterprises nor individuals can spend all their current income, as if there are no
 unforeseeable contingencies to prepare for.
 
-------------------------PRODUCTIVITY AND PAY-------------------------
+## PRODUCTIVITY AND PAY
 
 engineer who added 250k in earnings to company is worth 200k salary
 EXAMPLE: In short, lower productivity in British-owned companies reflected differences in management practices, even when
 productivity was measured in terms of output per unit of labor.
 
-businesses in 3rd world countries may have to absorb higher transport costs. At same price, net revenue would be less, making the value of 
+businesses in 3rd world countries may have to absorb higher transport costs. At same price, net revenue would be less, making the value of
 labor worth less
 
 differences in age. Three-quarters of those American workers who were in the bottom 20 percent in income in
@@ -408,7 +369,7 @@ wealth and income are different things
 FALLACY: Yet it is all too common to read journalists and others discussing how “society” distributes its income, rather than saying in plain
 English that some people make more money than others.
 
-LESSON:  If we count as genuinely poor that 5 percent of the population which remains in the bottom 20 percent over a period of years,
+LESSON: If we count as genuinely poor that 5 percent of the population which remains in the bottom 20 percent over a period of years,
 then the genuinely rich and the genuinely poor—put together—add up to less than 10 percent of the American population.
 
 LESSON: Focus on real income per capita.
@@ -451,21 +412,21 @@ infinite repairs vs just getting it replaced.
 ----------------MINIMUM WAGE LAWS---------------------------------------
 
 Higher costs in the form of mandated benefits have the same economic effect as higher costs in
-the form of minimum wage laws. 
+the form of minimum wage laws.
 
 the higher min. wage goes, more experienced union members can displace less experi. union members, thats why unions want min wage.
 
-FALLACY: min wage to provide a living wage. 
+FALLACY: min wage to provide a living wage.
 EVIDENCE: But 42 percent of minimum-wage workers live with parents or some other relative. In other
-words, they are not supporting a family but often a family is supporting them. 
+words, they are not supporting a family but often a family is supporting them.
 
-Using such research methods, you could survey people who have played Russian roulette and “prove” from their experiences that it is 
+Using such research methods, you could survey people who have played Russian roulette and “prove” from their experiences that it is
 a harmless activity, since those for whom it was not harmless are unlikely to be around to be
 surveyed. Thus you would have “refuted” the “myth” that Russian roulette is
 dangerous.
 
 south african laws put wages at high levels since they didn't want to become west's sweatshop. Thus, companies moved operations
-out and more people become jobless. 
+out and more people become jobless.
 
 Unemployability, like shortages and surpluses, is not independent of price.
 
@@ -520,7 +481,7 @@ LESSON: Countries with job security laws typically have higher unemployment.
 
 Average american has 9 jobs between ages 18 to 34.
 
-Job security laws reduce efficiency and flexibility 
+Job security laws reduce efficiency and flexibility
 
 ------------OCCUPATIONAL LICENSING---------------
 
@@ -532,7 +493,7 @@ common for licesing to exempt alread existing businesses / conflict of interest
 - specializing in a useless field, the lower pay means a waste of scarce resources
 - life experience sometimes is better then classroom education
 
-LESSON: 3rd world country, more people get useless degrees, gov has to hire them to prevent political unrest, increases red tape, 
+LESSON: 3rd world country, more people get useless degrees, gov has to hire them to prevent political unrest, increases red tape,
 makes it harder for qualified people to create & progress
 
 big sums of money owned by institutions are a reflection of small sums of many individuals
@@ -554,8 +515,7 @@ LESSON: inventory is a substitute for knowledge
 
 A soldier won't know the # of bullets he will fire in battle, so he carries more, but too much, will slow him down
 
-
-DEFINITION: The “present value” of an asset is in fact nothing more than its anticipated future benefits, added up and discounted for the 
+DEFINITION: The “present value” of an asset is in fact nothing more than its anticipated future benefits, added up and discounted for the
 fact that they are delayed.
 
 present value of asset reflects future benefits/detriments immediately.
@@ -579,7 +539,7 @@ money has different values based on time of it received (inflation included)
 
 Bond increases value due to interest rate, what about capital gains?? That sum of money is equivalent to each other
 Capital gains: if inflation had reduced value of the bond upon maturity?
-				if inflation had wiped out the profits of buying that bond?
+if inflation had wiped out the profits of buying that bond?
 
 Bonds have to be paid, legally (kind of like employees)
 
@@ -590,12 +550,12 @@ LESSON: fast growing company: stocks may be better, stable company, bonds..
 FACT: In past, shipowners liked owning 10% of 10 different ships, then one whole ship; greater chance of losing, but less chance of very bad loss
 
 For similar reasons, Hollywood agents have acquired percentage shares in the future earnings of unknown young actors and actresses who looked
-promising, thus making it worthwhile to invest time and money in the development and marketing of their talent. 
+promising, thus making it worthwhile to invest time and money in the development and marketing of their talent.
 
 -----------------INSURANCE------------------
 As with other forms of insurance, risks are not simply transferred from one party to another, but reduced in the process.
 
-a lot of customers, more data on insurance risks, so risks are less. 
+a lot of customers, more data on insurance risks, so risks are less.
 
 FACT: About two thirds of life insurance companies’ income comes from the premiums paid by their policy-holders and about one-fourth from earnings on their
 investments
@@ -604,7 +564,7 @@ LESSON: Moral Hazard - with insurance, more damanges can be tolerated by buyers,
 
 LESSON: Adverse Selection - incidence of disease X doesn't factor in likelihood of happening under certain situations
 
-MISTAKE: force banks to all have deposit insurance, people didn't care about whether companie's policies were reckless, lost the 
+MISTAKE: force banks to all have deposit insurance, people didn't care about whether companie's policies were reckless, lost the
 incentive to leave, thus savings and loan associations lost a lot of money
 
 Insurance is about risk, not fault, forcing everyone to have same insurance charge would raise overall price.
@@ -616,7 +576,7 @@ LESSON: not all rewards are paid in time when they are finished (shoe shining vs
 RISK VS UNCERTAINTY
 circulation of $ decline, slows economy
 
-LESSON:  In general, wherever A pays a low cost to impose high costs on B through delay, then A can either extort money from B or
+LESSON: In general, wherever A pays a low cost to impose high costs on B through delay, then A can either extort money from B or
 thwart B’s activities that A does not like, or some combination of the two.
 
 EXAMPLE: environm. report, little cost but imposes big delays that can ruin a project
@@ -630,7 +590,7 @@ Time and foresight can impose consequences of policies unforeseen, politicians o
 
 ----------------NATIONAL OUTPUT--------------------
 
-fallacy of composition: what applies to small, doesn't mean big. 
+fallacy of composition: what applies to small, doesn't mean big.
 
 LESSON: Interaction between individuals is ignored. Gov can always bail out industries, but at what cost to other industries??
 
@@ -674,13 +634,14 @@ Price of farm products were maintained by hoover (maintain purchasing power of f
 Money facilitates transfer of wealth, no banks, countries are poor.
 
 FRACTIONAL RESERVE BANKING
+
 - bank a written checks to bank b, bank b written checks to bank a, banks just pay the difference between the two!
 
 DEFINITION: degree to which an asset can be converted to cash while retaining value
 
 In China, most savings go to gov. run banks, which are loaned to gov enterprises at low interest rates
 
-State deposit insurance before federal deposit insurance. 
+State deposit insurance before federal deposit insurance.
 
 Logic: branch banking previously disallowed, due to trying to prevent competition, means that most
 customers are only in one area, greater risk
@@ -735,7 +696,7 @@ DEFINITION: national debt is what's owed by gov.
 
 -----> GOVERNMENT REVENUES
 
-government services and goods: transactions are transfers of tangible resources that 
+government services and goods: transactions are transfers of tangible resources that
 affect economic efficiency.
 
 tax rate goes up, tax revenue may not
@@ -750,7 +711,7 @@ liability of paying taxes to gov. doesn't tell who bears the economic burden in 
 tax laws are based on value expressed in money: inflation can make investment worth more even if it didn't earn anything
 
 - purchaser of tax exempt gov. bonds has no interest in future goal of these bond spending
-Will have to pay bondholders nonetheless
+  Will have to pay bondholders nonetheless
 
 Using eminent domain to destroy blighted housing and replace with commercial property with higher values
 
@@ -761,7 +722,7 @@ LESSON: Bonds or tax revenue? Future or current needs?
 
 Foreigners hold US debt, can collect future wealth from future generations of americans
 
-WW2: inflation meant that purchasing power of bonds when cashed in was less then the amount spent to 
+WW2: inflation meant that purchasing power of bonds when cashed in was less then the amount spent to
 buy them.
 
 LESSON: Look at debt relative to size of US economy, if gov has large financial liabilities, but not yet part of budget,
@@ -796,7 +757,7 @@ Product X costs $10, but avg person only wants it for $6, then fewer are going t
 Gov may subsidize this through $4 (bond sales, or taxes). Means that most people will pay $10
 counting taxes and their own money to buy something now worth $6.
 
-Even if now affordable for avg person, then half of population still won't be able to afford it, 
+Even if now affordable for avg person, then half of population still won't be able to afford it,
 so have to repeat the process.
 
 Tax cuts for the rich phrase...
@@ -907,7 +868,7 @@ $43 billion. That works out to about $215,000 a year for each job saved.
 
 -------INTL TRANSFER OF WEALTH---------
 
-remittances: money sent back home 
+remittances: money sent back home
 FACT: some countries are poor because investing in it is risky
 
 Trade deficits - what is the size relative to size of economy??
@@ -928,16 +889,16 @@ make more loans and earn more interest.
 
 foreign investors send $$ to US on condition of dividends, US businessmen would never have agreed to pay
 interest and dividends unless they expected these investments to produce big
-enough returns 
+enough returns
 
 debtor / creditor nation are accounting problems, not determining prosperity.
 
 FALLACY: foreign investors would carry off much of their national wealth, leaving the local population poorer
-REFUTATION: Americans ought to be some of the poorest people in the world, but no. 
+REFUTATION: Americans ought to be some of the poorest people in the world, but no.
 The reason for that prosperity is that economic transactions are not a zero-sum
 activity.
 
-FALLACY: multinational corporations profit by “exploiting” workers in the Third World. 
+FALLACY: multinational corporations profit by “exploiting” workers in the Third World.
 REFUTATION: why does the vast majority of American investments in other countries go to richer
 countries, where high wage rates must be paid
 
@@ -952,14 +913,14 @@ been a major source of international transfers of wealth.
 
 - but in other cases foreign aid simply enables the existing politicians in power to enrich themselves through graft a
 - foreign aid has encouraged many countries to set up government-run enterprises that have failed, or to create
-palaces, plazas or other things meant to impress on-lookers
+  palaces, plazas or other things meant to impress on-lookers
 - What needed to be rebuilt in Europe was physical capital. What needed to be created in much of the
-Third World was more human capital. 
+  Third World was more human capital.
 
 - Another phrase that presupposes an outcome which may or may not in
-fact materialize is the term “developing nations” for poorer nations, who
-may or may not be developing as fast as more prosperous nations, and in a
-number of cases have actually retrogressed economically over the years.
+  fact materialize is the term “developing nations” for poorer nations, who
+  may or may not be developing as fast as more prosperous nations, and in a
+  number of cases have actually retrogressed economically over the years.
 
 In short, many poor countries have already created substantial amounts of
 physical wealth that is not legally recognized,
@@ -967,20 +928,20 @@ physical wealth that is not legally recognized,
 But the property rights system which makes this possible has not been as
 accessible to ordinary people in Third World countries
 
-FACT:  But an estimated 90 percent of the wealth transfers to poorer nations from the
+FACT: But an estimated 90 percent of the wealth transfers to poorer nations from the
 United States takes the form of private philanthropic donations, business
-investments or remittances from citizens 
+investments or remittances from citizens
 
 ----> INTL MONETARY SYSTEM
 
 Where millions of dollars are invested overseas, the stability of the
-various currencies is urgently important. 
+various currencies is urgently important.
 
 STRONG VS WEAK CURRENCY
 
 A “strong” currency means that the prices of exports from
 countries which use that currency have risen in price to people in other
-countries. 
+countries.
 
 FACT: When Norway’s krone rose in value relative to Sweden’s krona, Norwegians living
 near the border of Sweden crossed over the border and saved 40 percent
@@ -991,8 +952,8 @@ Currency can rise / fall at same time
 INTL DISPARITIES IN WEALTH
 
 - Was there ever any realistic chance that the
-nations of the world would have had similar prospects of economic
-development?
+  nations of the world would have had similar prospects of economic
+  development?
 
 TAKEAWAY: The larger point here is that the effect of different geographic factors,
 such as sunshine and rain, cannot be considered in isolation, because their
@@ -1018,11 +979,11 @@ advantages of different regions.
 - when modern transportation and communications penetrate that isolation, old cultures may not vanish
 
 - Whether the payments received by those who contributed in these ways were unnecessarily large is a question
-answered by whether those same contributions are available from others at a
-lower cost. 
+  answered by whether those same contributions are available from others at a
+  lower cost.
 
 - Physically identical things are often sold for different prices, usually
-because of accompanying conditions that are quite different.
+  because of accompanying conditions that are quite different.
 
 - Price differences reflect differences in inventory costs, cost of land of store, ...
 - Customer costs measured in shopping time varies...
@@ -1040,8 +1001,8 @@ quality control is higher when brands are well known, brands have to maintain va
 -------> NON PROFIT ORGANIZATIONS
 
 - Non-profit organizations have additional sources of income, including
-fees from those who use their services, However, these fees do not cover the
-full costs of the goods and services being supplied
+  fees from those who use their services, However, these fees do not cover the
+  full costs of the goods and services being supplied
 
 LESSON: leaders of non profits are in a position to substitute their own goals for institution's purpose
 Difficult to establish foundation to serve a purpose after money has been spent and original founders are dead
@@ -1053,7 +1014,7 @@ more than two hundred years.
 
 In whatever activities they engage, non-profit organizations are not under the same pressures to get “the most
 bang for the buck” as are enterprises in which profit and loss determine their
-survival. 
+survival.
 
 If profits are unnecessary charges, then non profits should be doing better then profit groups
 
@@ -1105,9 +1066,9 @@ facts. Therefore the policy question often comes down to whether some
 people feel that their moral values should be imposed on other people with
 different moral values through the power of government
 
-Don't confuse privilege with achievements. 
+Don't confuse privilege with achievements.
 
-Morality is needed for a society to succeed, but are not sufficient by themselves. 
+Morality is needed for a society to succeed, but are not sufficient by themselves.
 
 ---------HISTORY OF ECONOMICS-----
 
@@ -1139,7 +1100,7 @@ of jobs.
 Much confusion comes from judging economic policies by the goals
 they proclaim rather than the incentives they create.
 
-What specific things are going to be done in the name of that goal? 
+What specific things are going to be done in the name of that goal?
 What does the particular legislation or policy reward and what does it punish?
 What constraints does it impose?
 
@@ -1149,83 +1110,11 @@ would have done is a moot point.
 
 Understanding facts not enough, implications need to be thought of, ex: Eastman Kodak
 
-economies are ways of production and distribution of goods / services, efficiently or not, voluntary or not. 
+economies are ways of production and distribution of goods / services, efficiently or not, voluntary or not.
 
 Yet invidious comparisons and internecine struggles are the stuff of social
 melodrama, which in turn is the lifeblood of the media and politics, as well
 as portions of the intelligentsia.
 
-Zero sum thinking can result in negative sum contests. 
+Zero sum thinking can result in negative sum contests.
 Economics not as emotional satisfying as drama in issues found in media and politics.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
