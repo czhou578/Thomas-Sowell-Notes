@@ -211,9 +211,6 @@ ex: supermarkets (volume of sales)
 No such thing as "the cost", its different for production volume
 Large fixed costs are among the reasons for lower costs of production per unit of output as the amount of output increases.
 
-Lower costs as volume increases: scaling
-scaling can help reduce costs despite advertising
-
 there is a point where cost of production / unit doesn't decline as production increases
 “A.T. & T. is so big that, if you gave it a kick in the behind today, it would be two years before the head said ‘ouch.’”
 
@@ -326,7 +323,7 @@ outside importers of same product doesn't mean that monopoly exists even if only
 
 us law prohibits collusion to fix prices
 
-BUSINESSES VS NON MARKET PRODUCERS
+## BUSINESSES VS NON MARKET PRODUCERS
 
 competing enterprises have been largely confined to market economies
 
@@ -353,8 +350,6 @@ unforeseeable contingencies to prepare for.
 ## PRODUCTIVITY AND PAY
 
 engineer who added 250k in earnings to company is worth 200k salary
-EXAMPLE: In short, lower productivity in British-owned companies reflected differences in management practices, even when
-productivity was measured in terms of output per unit of labor.
 
 businesses in 3rd world countries may have to absorb higher transport costs. At same price, net revenue would be less, making the value of
 labor worth less
@@ -362,17 +357,17 @@ labor worth less
 differences in age. Three-quarters of those American workers who were in the bottom 20 percent in income in
 1975 were also in the top 40 percent at some point over the next 16 years.
 
-LESSON: born, live, die in poverty/rich, very different from not yet reaching income level of older, more experienced people.
+> LESSON: born, live, die in poverty/rich, very different from not yet reaching income level of older, more experienced people.
 
 wealth and income are different things
 
-FALLACY: Yet it is all too common to read journalists and others discussing how “society” distributes its income, rather than saying in plain
+**FALLACY**: Yet it is all too common to read journalists and others discussing how “society” distributes its income, rather than saying in plain
 English that some people make more money than others.
 
-LESSON: If we count as genuinely poor that 5 percent of the population which remains in the bottom 20 percent over a period of years,
-then the genuinely rich and the genuinely poor—put together—add up to less than 10 percent of the American population.
+1. LESSON: If we count as genuinely poor that 5 percent of the population which remains in the bottom 20 percent over a period of years,
+   then the genuinely rich and the genuinely poor—put together—add up to less than 10 percent of the American population.
 
-LESSON: Focus on real income per capita.
+2. LESSON: Focus on real income per capita.
 
 CLAIM: the rich are getting richer and the poor are getting poorer when comparing income based on top and bottom brackets
 
@@ -383,57 +378,45 @@ up.
 
 Assumption that income brackets denote "class". If that was true, then trends of brackets === trends of individuals, which is not the case.
 
-workers judged by ability to apply mental proficiency to tasks
+> subsidized things don't count in income statistics, people on welfare would make income inequality greater
 
-refused to pay women workers, but did so for unproductive males, risked losing it all
+1. LESSON: women raising children, loses years of experience and time, lower incomes
+2. LESSON: women also choose different jobs (librarian vs engineer)
 
-subsidized things don't count in income statistics, people on welfare would make income inequality greater
+3. LESSON: Empirical evidence strongly indicates that racial discrimination tends to be greater when the
+   costs are lower and lower when the costs are greater.
 
-LESSON: women raising children, loses years of experience and time, lower incomes
-LESSON: women also choose different jobs (librarian vs engineer)
+## CAPITAL, LABOR AND EFFICIENCY
 
-LESSON: Empirical evidence strongly indicates that racial discrimination tends to be greater when the
-costs are lower and lower when the costs are greater.
-
-FACT: The “Rosie the Riveter” image that came out of World War II was in part a result of wage and price controls.
-
--------------------CAPITAL, LABOR AND EFFICIENCY-----------------------
-
-LESSON: Capital complements labor in the production process, but it also competes with labor for employment.
+**LESSON**: Capital complements labor in the production process, but it also competes with labor for employment.
 
 bus drivers not unionized, then companies can hire more of them at lower wage rates, more frequent buses, less waiting time
 
-LESSON: efficiency cannot be defined without mentioning human preferences and desires
+**LESSON**: efficiency cannot be defined without mentioning human preferences and desires
 
 Alternative uses of time may not be as productive
 
 infinite repairs vs just getting it replaced.
 
-----------------MINIMUM WAGE LAWS---------------------------------------
+## MINIMUM WAGE LAWS
 
 Higher costs in the form of mandated benefits have the same economic effect as higher costs in
 the form of minimum wage laws.
 
 the higher min. wage goes, more experienced union members can displace less experi. union members, thats why unions want min wage.
 
-FALLACY: min wage to provide a living wage.
+**FALLACY**: min wage to provide a living wage.
 EVIDENCE: But 42 percent of minimum-wage workers live with parents or some other relative. In other
 words, they are not supporting a family but often a family is supporting them.
-
-Using such research methods, you could survey people who have played Russian roulette and “prove” from their experiences that it is
-a harmless activity, since those for whom it was not harmless are unlikely to be around to be
-surveyed. Thus you would have “refuted” the “myth” that Russian roulette is
-dangerous.
 
 south african laws put wages at high levels since they didn't want to become west's sweatshop. Thus, companies moved operations
 out and more people become jobless.
 
 Unemployability, like shortages and surpluses, is not independent of price.
 
-LESSON: “Because they have no alternative” may be one answer. But that answer implies that low-wage employers provide a better option than these
-particular workers have otherwise—and so are not making them worse off.
+**LESSON**: “Because they have no alternative” may be one answer. But that answer implies that low-wage employers provide a better option than these particular workers have otherwise—and so are not making them worse off.
 
---------------------SPECIAL PROBLEMS IN LABOR MARKETS------------------------
+## SPECIAL PROBLEMS IN LABOR MARKETS
 
 compare what percentage of the adult population outside of institutions (colleges, the military, hospitals, prisons,
 etc.) are working.
@@ -449,23 +432,19 @@ employers to make improvements in both,
 
 labor unions don't want kids in workforce because it would make competition, teachers want kids in school longer so schools can be funded
 
-shorter work weeks at same rate/hr makes hiring more expensive, reducing employment
-
 third world countries with worse employment conditions, people still want the jobs
 
 multinational corporations competition has driven up wages even in native businesses
 
-LESSON: unions set wages to $20, then company has to pay for additional capital to raise productivity above $20
-LESSON: unions make businesses less competitive, look at US car industry
+1. LESSON: unions set wages to $20, then company has to pay for additional capital to raise productivity above $20
+2. LESSON: unions make businesses less competitive, look at US car industry
 
-FACT: teachers and gov unions are by far the biggest unions
+## EXPLOTATION
 
-----------------EXPLOTATION---------------------
+1. LESSON: government firms have restricted the entering of new competitors into an industry
+2. LESSON: higher earnings in non competitive industries doesn't mean its higher then in competiti. industries
 
-LESSON: government firms have restricted the entering of new competitors into an industry
-LESSON: higher earnings in non competitive industries doesn't mean its higher then in competiti. industries
-
-FALLACY: wealth created vs individual paid is exploitation
+**FALLACY**: wealth created vs individual paid is exploitation
 REFUATION: Babe Ruth would be the most exploited of all time. He carried Yankees franchise
 
 In some situations, people in a given occupation may be paid less currently than the rate of pay necessary to continue to attract a sufficient
@@ -473,9 +452,9 @@ supply of qualified people to that occupation.
 
 company who builds a big dam in a river can be exploited by local gov. requiring it to pay higher wages or higher taxes.
 
-REAL PROBLEM OF POVERTY IS NOT PRODUCING ENOUGH
+## REAL PROBLEM OF POVERTY IS NOT PRODUCING ENOUGH
 
----------------JOB SECURITY-----------------
+### JOB SECURITY
 
 LESSON: Countries with job security laws typically have higher unemployment.
 
@@ -483,26 +462,26 @@ Average american has 9 jobs between ages 18 to 34.
 
 Job security laws reduce efficiency and flexibility
 
-------------OCCUPATIONAL LICENSING---------------
+## OCCUPATIONAL LICENSING
 
-LESSON: although rationale for requiring licenses was to root out unqualified people, the public has rarely demanded it
+**LESSON**: although rationale for requiring licenses was to root out unqualified people, the public has rarely demanded it
 common for licesing to exempt alread existing businesses / conflict of interest
 
--------------------INVESTMENT-----------------
+## INVESTMENT
 
 - specializing in a useless field, the lower pay means a waste of scarce resources
 - life experience sometimes is better then classroom education
 
-LESSON: 3rd world country, more people get useless degrees, gov has to hire them to prevent political unrest, increases red tape,
+**LESSON**: 3rd world country, more people get useless degrees, gov has to hire them to prevent political unrest, increases red tape,
 makes it harder for qualified people to create & progress
 
 big sums of money owned by institutions are a reflection of small sums of many individuals
 
-LESSON: lack of financial institutions to allocate capital in poor countries restrict entrepreneurial ability
+**LESSON**: lack of financial institutions to allocate capital in poor countries restrict entrepreneurial ability
 
-LESSON: payday loans; short term loans to low income people. They are not 1 year loans
+**LESSON**: payday loans; short term loans to low income people. They are not 1 year loans
 
-FALLACY: annual rate of interest on these loans are astronomical
+**FALLACY**: annual rate of interest on these loans are astronomical
 REFULATION: those loans aren't given out for a whole year! ex. Salmon costs 10k a year (not going to be buying salmon everyday)....
 
 interest- cost includes the risk involved in sending out the loan.
@@ -510,12 +489,13 @@ interest- cost includes the risk involved in sending out the loan.
 SPECULATORS: farmer doesn't want to guess what price to sell his wheat, so he sells it to a speculator who pays him in advance regardless
 of what market price is, frees up farmer for doing his work.
 
-----------------INVENTORY AND PRESENT VALUE--------------------
-LESSON: inventory is a substitute for knowledge
+## INVENTORY AND PRESENT VALUE
+
+# LESSON: inventory is a substitute for knowledge
 
 A soldier won't know the # of bullets he will fire in battle, so he carries more, but too much, will slow him down
 
-DEFINITION: The “present value” of an asset is in fact nothing more than its anticipated future benefits, added up and discounted for the
+**DEFINITION**: The “present value” of an asset is in fact nothing more than its anticipated future benefits, added up and discounted for the
 fact that they are delayed.
 
 present value of asset reflects future benefits/detriments immediately.
@@ -533,7 +513,7 @@ FACT: 2/3rd of oil in oil pools are left there, since extracting isn't worth it
 
 FACTS: US has 1000 years worth of ntrl gas, study was repudiated to reach more politically correct results
 
-------------------STOCKS, BONDS AND INSURANCE-----------------
+## STOCKS, BONDS AND INSURANCE
 
 money has different values based on time of it received (inflation included)
 
@@ -637,7 +617,7 @@ FRACTIONAL RESERVE BANKING
 
 - bank a written checks to bank b, bank b written checks to bank a, banks just pay the difference between the two!
 
-DEFINITION: degree to which an asset can be converted to cash while retaining value
+**DEFINITION**: degree to which an asset can be converted to cash while retaining value
 
 In China, most savings go to gov. run banks, which are loaned to gov enterprises at low interest rates
 
