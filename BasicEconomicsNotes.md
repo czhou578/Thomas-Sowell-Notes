@@ -1,4 +1,4 @@
-## **DEFINITION**: economics is the study of use of scarce resources which have alternative use
+## \***\*DEFINITION\*\***: economics is the study of use of scarce resources which have alternative use
 
 It is also, and more fundamentally, about producing that output from scarce resources in the first place—turning
 inputs into output.
@@ -505,7 +505,7 @@ existence is not limited to the human lifespan.
 
 Reduce risk comes from greater predictability of large numbers
 
-oil's present value is based on how much can be drilled so that it can repay the costs of drilling
+> oil's present value is based on how much can be drilled so that it can repay the costs of drilling
 
 FALLACY: We are running out of oil (1970s)
 REFUTATION: No! Drilling fell due to supply and demand, no correlation with actual oil supplies
@@ -519,20 +519,20 @@ money has different values based on time of it received (inflation included)
 
 Bond increases value due to interest rate, what about capital gains?? That sum of money is equivalent to each other
 Capital gains: if inflation had reduced value of the bond upon maturity?
-if inflation had wiped out the profits of buying that bond?
 
 Bonds have to be paid, legally (kind of like employees)
 
-LESSON: venture capitalist needs >= 50% return on successful ventures to cover for losses
+**LESSON**: venture capitalist needs >= 50% return on successful ventures to cover for losses
 
-LESSON: fast growing company: stocks may be better, stable company, bonds..
+**LESSON**: fast growing company: stocks may be better, stable company, bonds..
 
 FACT: In past, shipowners liked owning 10% of 10 different ships, then one whole ship; greater chance of losing, but less chance of very bad loss
 
 For similar reasons, Hollywood agents have acquired percentage shares in the future earnings of unknown young actors and actresses who looked
 promising, thus making it worthwhile to invest time and money in the development and marketing of their talent.
 
------------------INSURANCE------------------
+## INSURANCE
+
 As with other forms of insurance, risks are not simply transferred from one party to another, but reduced in the process.
 
 a lot of customers, more data on insurance risks, so risks are less.
@@ -540,27 +540,29 @@ a lot of customers, more data on insurance risks, so risks are less.
 FACT: About two thirds of life insurance companies’ income comes from the premiums paid by their policy-holders and about one-fourth from earnings on their
 investments
 
-LESSON: Moral Hazard - with insurance, more damanges can be tolerated by buyers, how to determine premium?
+**LESSON**: Moral Hazard - with insurance, more damanges can be tolerated by buyers, how to determine premium?
 
-LESSON: Adverse Selection - incidence of disease X doesn't factor in likelihood of happening under certain situations
+**LESSON**: Adverse Selection - incidence of disease X doesn't factor in likelihood of happening under certain situations
 
 MISTAKE: force banks to all have deposit insurance, people didn't care about whether companie's policies were reckless, lost the
 incentive to leave, thus savings and loan associations lost a lot of money
 
 Insurance is about risk, not fault, forcing everyone to have same insurance charge would raise overall price.
+
 FEMA encourages risk taking, paid for by taxpayers
 
-------------PROBLEMS OF TIME AND RISK------------------
+## PROBLEMS OF TIME AND RISK
 
-LESSON: not all rewards are paid in time when they are finished (shoe shining vs oil)
+**LESSON**: not all rewards are paid in time when they are finished (shoe shining vs oil)
 RISK VS UNCERTAINTY
 circulation of $ decline, slows economy
 
-LESSON: In general, wherever A pays a low cost to impose high costs on B through delay, then A can either extort money from B or
+**LESSON**: In general, wherever A pays a low cost to impose high costs on B through delay, then A can either extort money from B or
 thwart B’s activities that A does not like, or some combination of the two.
 
 EXAMPLE: environm. report, little cost but imposes big delays that can ruin a project
-LESSON: Time is money, against political risk
+
+**LESSON**: Time is money, against political risk
 
 WHAT A QUOTE: "what things cost in the past is history, what the supply and demand today is economics"
 
@@ -568,7 +570,7 @@ WHAT A QUOTE: "what things cost in the past is history, what the supply and dema
 
 Time and foresight can impose consequences of policies unforeseen, politicians only care about next election
 
-----------------NATIONAL OUTPUT--------------------
+## NATIONAL OUTPUT
 
 fallacy of composition: what applies to small, doesn't mean big.
 
@@ -586,8 +588,6 @@ GDP compared to very recent years more reflect products then vs 100 yrs ago
 PROBLEM: previous years of declining prices are not reflected in stats,
 PROBLEM: higher prices may mean higher quality
 
-LESSON: older vs younger populations affect country output statistics: older requires medications
-
 LESSON: government also can sell for less price, exaggerate value of gov. services
 
 higher gdp per capita doesn't mean that living standards are higher
@@ -595,25 +595,20 @@ higher gdp per capita doesn't mean that living standards are higher
 developing countries rise, then poor people who would've died now survive, increasing size of poor people, which could
 actually drag down statistics
 
-Fact: In colonial America, where hard currency was in short supply, warehouse receipts for tobacco circulated as money
-
--------------INFLATION AND DEFLATION------------------
+## INFLATION AND DEFLATION
 
 During the later stages of the American Civil War, Southerners tended to use the currency issued in Washington, rather
 than the currency of their own Confederate government.
 
-inflation affects everyone, secretly taking away money
-
 deflation causes mortagages and debts to cost more in relative terms
 
 Federal reserve in the great depression acted strangely, RAISED INTEREST RATES????
-Politicians may not care about finances, but may care about political interests
 reducing wage rates to compensate for deflation, not done by hoover or fdr, made things worse
 Price of farm products were maintained by hoover (maintain purchasing power of farmers), fdr, resulting in crops being destroyed in periods of starvation
 
 Money facilitates transfer of wealth, no banks, countries are poor.
 
-FRACTIONAL RESERVE BANKING
+### FRACTIONAL RESERVE BANKING
 
 - bank a written checks to bank b, bank b written checks to bank a, banks just pay the difference between the two!
 
@@ -627,29 +622,25 @@ Logic: branch banking previously disallowed, due to trying to prevent competitio
 customers are only in one area, greater risk
 
 people who are insured may take greater risks.
-LESSON: containing risk doesn't make it go away
 
----------------ROLE OF GOVERNMENT-------------
----> LAW AND ORDER
+**LESSON**: containing risk doesn't make it go away
+
+## ROLE OF GOVERNMENT
 
 Corruption: beaureaucrats delay, can demand bribes, cost of business goes up, higher prices,
 lower standard of living.
 
-That's the real cost....
-
 Fact: A survey by the World Bank found that the number of days required to start a new business ranged from less
 than ten in prosperous Singapore to 155 days in poverty-stricken Congo
 
-Discriminatory laws can promote econ. develop. if its spelled out in advance
-
-LESSON: Property Rights create self monitoring, property rights are more valuable to people
+**LESSON**: Property Rights create self monitoring, property rights are more valuable to people
 who are not rich, since its economically efficient
 
 In aggregate, the non rich often has far more money then rich??? Entrepreneurs
 can borrow money, and use that to build middle class homes and apartments in rich neighborhoods,
 thuse lowering property values of rich
 
----> SOCIAL ORDER
+## SOCIAL ORDER
 
 Trust is important in doing business
 Overseas Chinese can make verbal agreements, without judicial legal system involved, thus
@@ -664,29 +655,20 @@ No present value factor to force political decision makers
 No clear categorial definition as "clean water, or clean air"
 LESSON: if gov keeps raising standards of purity, the costs may be more then benefits
 
-SAYING: "Dose that makes the poison".
-
-FDR used ww1 laws to take US off gold standard, politicians using laws differently compared to
-their original intent
-
 ---------GOVERNMENT FINANCE-------------
 
 Tax revenue and bond sales are biggest src of money for gov.
-DEFINITION: national debt is what's owed by gov.
+**DEFINITION**: national debt is what's owed by gov.
 
------> GOVERNMENT REVENUES
+## GOVERNMENT REVENUES
 
 government services and goods: transactions are transfers of tangible resources that
 affect economic efficiency.
-
-tax rate goes up, tax revenue may not
 
 Tax rates vs tax revenues: gov can change tax rates, but revenue change depends on people
 FALLACY: "500 billion tax cut or 700 billion tax increase".
 
 DEFINE: regressive tax, affects lower income people more then higher
-
-liability of paying taxes to gov. doesn't tell who bears the economic burden in the end.
 
 tax laws are based on value expressed in money: inflation can make investment worth more even if it didn't earn anything
 
@@ -695,26 +677,17 @@ tax laws are based on value expressed in money: inflation can make investment wo
 
 Using eminent domain to destroy blighted housing and replace with commercial property with higher values
 
-Kelo vs new London court case, allows for users to ask gov. officials to use eminent domain
-to take property, sell it to new owners for less, no need to bid.
-
-LESSON: Bonds or tax revenue? Future or current needs?
+**LESSON**: Bonds or tax revenue? Future or current needs?
 
 Foreigners hold US debt, can collect future wealth from future generations of americans
 
-WW2: inflation meant that purchasing power of bonds when cashed in was less then the amount spent to
-buy them.
-
-LESSON: Look at debt relative to size of US economy, if gov has large financial liabilities, but not yet part of budget,
+**LESSON**: Look at debt relative to size of US economy, if gov has large financial liabilities, but not yet part of budget,
 then the debt may be less then what gov. truly owes.
 
 Transport Systems becoming municiapl, gov, owned. Resources whose value to people elsewhere were greater
 were being sent to municipal transit due to taxpayer revenue and subsidies
 
-National parks: national park fares go into us treasury, costs of maintain. paid by taxes, so the fares don't
-have to be very high
-
-CLAIM: services have to be obtainable from standpoint of "poor". Why would majority of population pay for
+**CLAIM**: services have to be obtainable from standpoint of "poor". Why would majority of population pay for
 something that fewer people use? Vouchers are better...
 
 Unemployment benefits and agricul. subsidies are entitilement programs, which are unpopular to repeal.
@@ -724,14 +697,12 @@ LESSON: Loss of purchasing power in once place offsets gain in purchasing power 
 Keynesian economics, get an economy out of recession is for gov to do deficit spending, adds to monetary demand, leading
 to more purchases, more hiring, and reduce unemployment.
 
-BIG LESSON: Government programs cost: gov cost or economy cost?
-
 LESSON: Legal penalties against gov may be little, but economic cost may be very big!
 
 Land restrictions in the name of "open space" may reduce value because home builders are prevented from using the land
 and don't bid for it.
 
--------> BENEFITS VS NET BENEFITS
+## BENEFITS VS NET BENEFITS
 
 Product X costs $10, but avg person only wants it for $6, then fewer are going to buy
 Gov may subsidize this through $4 (bond sales, or taxes). Means that most people will pay $10
@@ -742,15 +713,14 @@ so have to repeat the process.
 
 Tax cuts for the rich phrase...
 
-FALLACY: Congressional budget office issues projections provided by congress. If Congress is wrong, then the office will
+**FALLACY**: Congressional budget office issues projections provided by congress. If Congress is wrong, then the office will
 make estimates based off of wrong assumptions, even if media or public consider it non partisan.
 
 Wealth buys more education and time to be devoted into politics
-Gov institutions are often in opposition to one another due to interests
 
 Gov officials are pressured to "do something" even if it may make things worse
 
-----> Government Obligations
+## Government Obligations
 
 Legal obligations to make future expenditures. Like gov bonds, or subsidies.
 
@@ -759,7 +729,7 @@ money gets spent to cover costless guarantees
 
 Easy to promise pensions, but unpopular politically to raise taxes to cover these pensions
 
-LESSON: Private annuity invests premiums that come in, create investments that can pay dividends
+Private annuity invests premiums that come in, create investments that can pay dividends
 
 Social security doesn't invest in anything. Gov bonds in social security only promise to pay money collected from
 future taxpayers (no wealth is created)
