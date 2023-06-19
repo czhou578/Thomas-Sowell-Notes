@@ -1,52 +1,35 @@
 ## \***\*DEFINITION\*\***: economics is the study of use of scarce resources which have alternative use
 
-It is also, and more fundamentally, about producing that output from scarce resources in the first place—turning
-inputs into output.
+It is also, and more fundamentally, about producing that output from scarce resources in the first place—turning inputs into output.
 
 alternative uses: water can be used to produce ice or steam by itself or innumerable mixtures and compounds in combination with other things.
-
-inefficiently turning input to output makes lagging economies. Russia is an example.
 
 - volume of goods and services that determine whether society is prosperous
 
 LESSON: Look at **incentives** they create, not simply the goals to pursue
 
-prices do the job of conveying market info, and not appointed gov. bureaucrats, But it is not the prices that cause the scarcity.
+prices do the job of conveying market info but it is not the prices that cause the scarcity.
 Prime Minister Margaret Thatcher in her memoirs said that Mikhail Gorbachev “had little understanding of economics,”
 
-**Fact**: government declared that something scarce was a basic right, that doesn't change the fact that its still scarce
-cause natural resources to move from place to place: Japanese are willing to pay higher prices for natural resources, so the supply chain moves there
+**Fact**: government declared that something scarce was a basic right, but its still scarce!
+natural resources can move: Japanese are willing to pay higher prices for natural resources, so the supply chain moves there
 
-Soviet Union planned economy: where a chronic problem was a piling up of unsold goods in warehouses at the very time when there were
-painful shortages of other things that could have been produced with the same resources. Central planning is too complicated for humans
-
+Central planning is too complicated. Soviet Union: unsold goods piled up at the very time when there were shortages of other things that could have been produced with the same resources. 
 Soviet enterprises always ordered more from gov. then needed, thus allocation of resources was very poor and inefficient.
 
-"Greed" - may reflect changed market circumstances
-
-**LESSON**: the price which one producer is willing to pay for any given ingredient becomes the price that
-other producers are forced to pay for that same ingredient.
-
+**LESSON**: the price which one producer is willing to pay for any given ingredient becomes the price that other producers are forced to pay for that same ingredient.
 **LESSON**: resources tend to flow to their most valued uses when there is price competition in the marketplace
 
-Reality: From the standpoint of society as a whole, the “cost” of anything is the value that it has in alternative uses.
-Capitalist system forces mistakes to be corrected while socialist systems don't
-
+Reality: From societal standpoint, the “cost” of anything is the value that it has in alternative uses. Capitalist system forces mistakes to be corrected while socialist systems don't
 Marx and Engels were both critical of government directly controlling economy
 
 LESSON: the quantity supplied varies directly with the price
 
 "Running out of ...." confuses economically available current supply with ultimate physical supply in the earth
 
-LESSON: larger quantity is supplied at higher prices than at lower prices
-
-**CLAIM**: Corporates are paid more then they are "really worth".
-
-Prices going up/down can mislead people into thinking its deviating from "real" worth.
+**CLAIM**: Corporates are paid more then they are "really worth". Prices going up/down can mislead people into thinking its deviating from "real" worth; "greed" or higher prices may mean more efficiency
 
 Objective vs subjective price: If paper's real value was 5 dollars, then if i offer $5 to the seller, then i wouldn't be gaining anything from the transaction, which makes it pointless. Also, one side would be getting worse on the deal, so they wouldn't want to do this....
-
-"greed" or higher prices may mean more efficiency
 
 **CLAIM**: We have unmet needs in our society
 
@@ -54,8 +37,6 @@ LESSON: there will always be unwanted needs based on definition above. Merely de
 that it should be met— not when resources are scarce and have alternative uses.
 
 Robbing peter to pay paul, then robbing paul to pay someone else, infinite loop
-
-should be seen as tradeoffs, not unwanted needs
 
 ## PRICE CONTROLS
 
@@ -1035,36 +1016,20 @@ Economics is scientific since it has some procedures of science (controlled expe
 forecast vs predictions since there is uncertainty
 
 But economics is ultimately about systemic results, not personal intentions or individual acts.
+George Stigler: “A war may ravage a continent or destroy a generation without posing new theoretical questions".
 
-Does economics influence events and do events influence economics? Yes, but how?
+wage rates per unit of time vs labor costs per unit of output / tax rates per dollar of income vs total tax revenues
 
-George Stigler: “A war may ravage a continent or destroy a generation without posing new
-theoretical questions.
-
-wage rates per unit of time vs labor costs per unit of output
-tax rates per dollar of income vs total tax revenues
-
-Labor unions can increase labor's share of industry, but ruins competition for investment, leading to net loss
-of jobs.
-
-Much confusion comes from judging economic policies by the goals
-they proclaim rather than the incentives they create.
+Labor unions can increase labor's share of industry, but ruins competition for investment, leading to net loss of jobs.
+Much confusion comes from judging economic policies by the goals they proclaim rather than the incentives they create.
 
 What specific things are going to be done in the name of that goal?
 What does the particular legislation or policy reward and what does it punish?
 What constraints does it impose?
 
-When people do not stop and think through the issues, it does not matter whether those
-people are geniuses or morons, because the quality of the thinking that they
-would have done is a moot point.
+When people do not stop and think through the issues, doesn't matter whether they are geniuses / morons, because the quality of the thinking that they would have done is a moot point.
 
 Understanding facts not enough, implications need to be thought of, ex: Eastman Kodak
 
-economies are ways of production and distribution of goods / services, efficiently or not, voluntary or not.
-
-Yet invidious comparisons and internecine struggles are the stuff of social
-melodrama, which in turn is the lifeblood of the media and politics, as well
-as portions of the intelligentsia.
-
-Zero sum thinking can result in negative sum contests.
+Yet invidious comparisons and internecine struggles are social melodrama, which is the lifeblood of the media and politics
 Economics not as emotional satisfying as drama in issues found in media and politics.
