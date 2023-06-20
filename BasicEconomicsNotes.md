@@ -150,8 +150,6 @@ Huge supermarkets in shopping malls with vast parking lots decisive advantages
 over neighborhood stores—such as those of A & P. People bought more with less trips, thanks to cars and freezers.
 
 high volume means that delivery costs from producers is lower, since they only need to do so to one place.
-faster lines at checkout
-
 consequences of losses are bad for business, but good for overall economy and consumers
 
 An economy based on prices, profits, and losses gives decisive advantages to those with greater
@@ -172,15 +170,12 @@ socialism's inefficiency would not exist in capitalism, (bankruptcies and losses
 
 > Put differently, profit is a price paid for efficiency.
 
-If in fact the cost of profits exceeded the value of the efficiency they promote, then non-profit
-organizations or government agencies could get the same work done cheaper or better than profit-making enterprises.
+If in fact the cost of profits exceeded the value of the efficiency they promote, then non-profit organizations or government agencies could get the same work done cheaper or better than profit-making enterprises.
 
 The only person whose payment is contingent on how well the business is doing is the owner of that business.
+Profits on sale vs profit on investment are different.
 
-profits on sale vs profit on investment are different.
-
-investment profits are important not only to investors but the economy, as it determines rate of profits over entire sectors,
-so the money is appropriately flowing into the proper areas.
+investment profits are important not only to investors but the economy, as it determines rate of profits over entire sectors, so the money is appropriately flowing into the proper areas.
 
 > EXAMPLE: bread is sold quicker then pianos, so pianos have higher markup if owners want a good annual return.
 
@@ -265,33 +260,18 @@ Financiers who have their own money at stake pay CEO's more.
 ## MONOPOLIES AND CARTELS
 
 Most big businesses are not monopolies and not all monopolies are big business.
-
-- consumers of a monopolist’s product are foregoing the use of
-  scarce resources which would have a higher value to them than in alternative
-  uses.
+- consumers of a monopolist’s product are foregoing the use of scarce resources which would have a higher value to them than in alternative uses.
 
 monopolist “restricts output”, not the intent or the monopolist doing so
 monopoly's higher price - less purchases - less production
-
-cartels need a way to enforce internal compliance.
-smaller businesses fight cartels by offering at lower prices, so cartels who charge for higher profits are at risk
-
-## ANTI TRUST LAWS
-
-Ideally, a regulatory commission would set prices where they would have been if there were a competitive marketplace.
-
-- average costs imposed by regulators are irrelevant when avg costs suddenly become high or low
-- civil aeronautics board kept out competitor airlines, so air fares were high.
+cartels need a way to enforce internal compliance since smaller businesses fight cartels by offering at lower prices, so cartels who charge for higher profits are at risk
 
 ## COMPETITION VS COMPETITORS
 
-LESSON: what is detrimental to competition and what is detrimental to competitors.
-
-free competition is replaced by gov. intervention to force companies to facilitate competitors, it seems like it protects competitors
+LESSON: what is detrimental to competition and what is detrimental to competitors. Free competition is replaced by gov. intervention to force companies to facilitate competitors, it seems like it protects competitors
 
 CLAIM: standard practice in US courts: is to describe the percentage of sales made by a given company as the
 share of the market which it “controls.”
-
 if one material is controlled by monopoly and is expensive, then it makes substitutes more attractive
 
 outside importers of same product doesn't mean that monopoly exists even if only one company in a country makes same products
@@ -299,9 +279,7 @@ outside importers of same product doesn't mean that monopoly exists even if only
 > LESSON: In economic terms: when higher prices for A cause people to buy more of B, then A and B are
 > substitutes, whether or not they look alike or operate alike.
 
-> A company which cannot keep competitors out is not a monopoly, no matter what percentage of the market it may have at a given
-> moment.
-
+> A company which cannot keep competitors out is not a monopoly, no matter what percentage of the market it may have at a given moment.
 us law prohibits collusion to fix prices
 
 ## BUSINESSES VS NON MARKET PRODUCERS
@@ -312,51 +290,36 @@ competing enterprises have been largely confined to market economies
 
 **Fact**: Winner and losers shouldn't be confused with imbalances
 
-EXAMPLE: London’s The Economist magazine likewise pointed out that in India one can “watch the tellers in a state-owned bank chat amongst
-themselves while the line of customers stretches on to the street.”
+EXAMPLE: London’s The Economist magazine likewise pointed out that in India one can “watch the tellers in a state-owned bank chat amongst themselves while the line of customers stretches on to the street.”
 
-> Behind all of this is the basic fact that a business is selling not only a physical product, but also the reputation which surrounds that > product.
+> Behind all of this is the basic fact that a business is selling not only a physical product, but also the reputation which surrounds that product.
 
-LESSON: The fact that scarce resources have alternative uses implies that some enterprises must lose their
-ability to use those resources, in order that others can gain the ability to use them.
-
+LESSON: The fact that scarce resources have alternative uses implies that some enterprises must lose their ability to use those resources, in order that others can gain the ability to use them.
 farm and farm worker declines led to greater # of industry workers.
 
 > LESSON: To know what the new discoveries were going to be would be to make the discoveries before the discoveries were made. It is a
 > contradiction in terms.
 
-LESSON: Neither enterprises nor individuals can spend all their current income, as if there are no
-unforeseeable contingencies to prepare for.
+LESSON: Neither enterprises nor individuals can spend all their current income, as if there are no unforeseeable contingencies to prepare for.
 
 ## PRODUCTIVITY AND PAY
-
-engineer who added 250k in earnings to company is worth 200k salary
-
-businesses in 3rd world countries may have to absorb higher transport costs. At same price, net revenue would be less, making the value of
-labor worth less
-
-differences in age. Three-quarters of those American workers who were in the bottom 20 percent in income in
-1975 were also in the top 40 percent at some point over the next 16 years.
+businesses in 3rd world countries may have to absorb higher transport costs. At same price, net revenue would be less, making the value of labor worth less
+differences in age. Three-quarters of those American workers who were in the bottom 20 percent in income in 1975 were also in the top 40 percent at some point over the next 16 years.
 
 > LESSON: born, live, die in poverty/rich, very different from not yet reaching income level of older, more experienced people.
 
 wealth and income are different things
 
-**FALLACY**: Yet it is all too common to read journalists and others discussing how “society” distributes its income, rather than saying in plain
-English that some people make more money than others.
+**FALLACY**: journalists and others discussing how “society” distributes its income, rather than saying in plain English that some people make more money than others.
 
-1. LESSON: If we count as genuinely poor that 5 percent of the population which remains in the bottom 20 percent over a period of years,
-   then the genuinely rich and the genuinely poor—put together—add up to less than 10 percent of the American population.
+1. LESSON: If we count as genuinely poor that 5 percent of the population which remains in the bottom 20 percent over a period of years, then the genuinely rich and the genuinely poor—put together—add up to less than 10 percent of the American population.
 
 2. LESSON: Focus on real income per capita.
 
 CLAIM: the rich are getting richer and the poor are getting poorer when comparing income based on top and bottom brackets
-
 LESSON: In other words, the incomes of people who were initially at the bottom rose more than the incomes of people who were initially at the top.
 
-This may help explain such anomalies as hundreds of thousands of people with incomes below $20,000 a year who are living in homes costing $300,000 and
-up.
-
+This may help explain such anomalies as hundreds of thousands of people with incomes below $20,000 a year who are living in homes costing $300,000 and up.
 Assumption that income brackets denote "class". If that was true, then trends of brackets === trends of individuals, which is not the case.
 
 > subsidized things don't count in income statistics, people on welfare would make income inequality greater
