@@ -1,22 +1,12 @@
-Fallacies are both plausible and logical, with something missing.
-results in political support, bad results.
-
-Fair, social jusice, equality: appealing for politicians.
-
-REALITY: In other words, evidence is too dangerous— politically, financially and psychologically— for some people to
-allow it to become a threat to their interests
-
-In short, reducing the set of mutually acceptable terms tends to reduce the set of
-mutually acceptable results.
+Fallacies are both plausible and logical, with something missing. Results in political support, bad results.
+REALITY: In other words, evidence is too dangerous— politically, financially and psychologically— for some people to allow it to become a threat to their interests
+In short, reducing the set of mutually acceptable terms tends to reduce the set of mutually acceptable results.
 
 EXAMPLES: Rent control, gov policies that promote employee benefits.
 
 ## FALLACY OF COMPOSITION:
-
 what is true of a part is true of the whole.
-
-Whole neighborhoods have been demolished and "redeveloped" with upscale housing and shopping malls as
-a means of "revitalizing" the community. Often the federal government subsidizes this operation.
+Whole neighborhoods have been demolished and "redeveloped" with upscale housing and shopping malls as a means of "revitalizing" the community. Often the federal government subsidizes this operation.
 Rich people have to be transferred somewhere, as well as displaced people.
 
 ## CHESS-PIECE FALLACY:
@@ -24,21 +14,14 @@ Rich people have to be transferred somewhere, as well as displaced people.
 Adam Smith: who "seems to imagine that he can arrange the different members of a great society with as much ease as
 the hand arranges the different pieces upon a chess-board.
 
-STRATEGY: If one policy doesn't work, then keep trying until one works; can cause people to change their behavior in ways
-that adversely affect the economy.
-
+STRATEGY: If one policy doesn't work, then keep trying until one works; can cause people to change their behavior in ways that adversely affect the economy.
 No reliable framework for expectations, then that impacts investor and business sentiments.
 
 ## OPEN-ENDED FALLACY:
 
 Resources are unlimited, who would be against health, safety, open space?
-
-No matter how much is done to promote health, more could be done. No
-matter how safe things have been made, they could be made safer. And no
-matter how much open space there is, there could be still more.
-
+No matter how much is done to promote health, more could be done. No matter how safe things have been made, they could be made safer. And no matter how much open space there is, there could be still more.
 **Big Idea**: Resources have alternative uses that could be more productive.
-
 Open ended demands encourage more gov. misallocation of resources.
 
 URBAN FACTS AND FALLACIES:
@@ -47,61 +30,32 @@ The spreading out of urban communities in general has been made possible by redu
 
 ## OVERPOPULATION FALLACY:
 
-Photographs of crowded slums in Third World countries may
-insinuate the conclusion that "overpopulation" is the cause of poverty, when
-in fact poverty is the reason for the crowding among people unable to afford
-the transportation costs of commuting or much urban living space, but who
-are yet unwilling to forego the benefits of urban living.
+Photographs of crowded slums in Third World countries may insinuate the conclusion that "overpopulation" is the cause of poverty, when in fact poverty is the reason for the crowding among people unable to afford the transportation costs of commuting or much urban living space, but who are yet unwilling to forego the benefits of urban living.
 
 CONGESTION:
 
-Fact: The annual costs in both wasted fuel and wasted time have been estimated at more than a thousand dollars per rush hour traveler in
-Washington, Dallas, Adanta and San Francisco, and at more than $1,500 in Los Angeles
-
+Fact: The annual costs in both wasted fuel and wasted time have been estimated at more than a thousand dollars per rush hour traveler in Washington, San Francisco, and more than $1,500 in Los Angeles
 Stockholm and Singapore tried to charge people who drive different amounts. Traffic declined in numerous ways.
 
-- showed that "free" roadways contribute to congestion, as most "free" things are used more extensively than when the
-  costs of people's behavior are conveyed to them direcdy through prices.
-
+- showed that "free" roadways contribute to congestion, as most "free" things are used more extensively than when the costs of people's behavior are conveyed to them directly through prices.
 - More roads wouldn't increase congestion.
 
 ## AFFORDABLE HOUSING FALLACY:
 
 needs gov. intervention. Disproved time and time again.
+Height restrictions are among the many building restrictions which can be imposed. Moreover, if a community cannot expand upward, then it must expand outward, leading to longer commutes to work.
+Without restrictions: High profit margins, over and above the costs of construction and land, attract more builders who wish to share in these lucrative returns on investments in home building.
+Affordable housing: this might be subsidized by taxpayers, or making it mandatory that private builders sell a certain percentage of their housing at prices "below market".
+FACT: Moreover, where these prices represent losses to the builders, these losses are made up by raising the prices of their other housing even higher.
 
-Height restrictions are among the many building restrictions which can
-be imposed. Moreover, if a community cannot expand upward, then it must expand
-outward, leading to longer commutes to work.
-
-Without restrictions: High profit margins, over and above the costs of
-construction and land, attract more builders who wish to share in these
-lucrative returns on investments in home building.
-
-Affordable housing: this might be subsidized by taxpayers, or making it mandatory that private builders
-sell a certain percentage of their housing at prices "below market".
-
-FACT: Moreover, where these prices represent losses to the builders,
-these losses are made up by raising the prices of their other housing even
-higher.
-
-What held in check the ability of government officials to micro-manage housing markets
-were property rights.
-
+What held in check the ability of government officials to micro-manage housing markets were property rights.
 Consequences of no property rights: rich people can fence off their communities.
-
-Those existing residents who choose to sell to developers have just as much right
-to do so under the Constitution as those who prefer to keep the community
-as it is.
-
-Land-use restrictions protecting "this way of life" have a cost paid by
-others.
+Land-use restrictions protecting "this way of life" have a cost paid by others.
 
 ## Slums FALLACY:
 
 Slums aren't all filled with criminals. Slums needed to be demolished since they are dirty.
-It appeared on the national level as far back as the administration of Herbert Hoover and was
-developed further during the subsequent New Deal administration of
-Franklin D. Roosevelt.
+It appeared on the national level as far back as the administration of Herbert Hoover and was developed further during the subsequent New Deal administration of Franklin D. Roosevelt.
 
 # Appraisers:
 
@@ -109,9 +63,7 @@ Eminent Domain: gov supposed to pay proper money to people whose properties they
 Appraisers have conflict of interest: based on their appraisal, gov may have to pay more or less.
 Gov wants to "redevelop" a given area means that the market value of properties in that area will fall
 
-More fundamentally, however, what the government compensates for is
-the value of what they take, not the value of what the property owner has
-lost.
+More fundamentally, however, what the government compensates for is the value of what they take, not the value of what the property owner has lost.
 
 Logic: what's being built is more valuable then what's torn down, then should be possible to compensate losers for their losses and still
 have left over.
