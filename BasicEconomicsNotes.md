@@ -326,14 +326,12 @@ Assumption that income brackets denote "class". If that was true, then trends of
 
 1. LESSON: women raising children, loses years of experience and time, lower incomes
 2. LESSON: women also choose different jobs (librarian vs engineer)
-
 3. LESSON: Empirical evidence strongly indicates that racial discrimination tends to be greater when the
    costs are lower and lower when the costs are greater.
 
 ## CAPITAL, LABOR AND EFFICIENCY
 
 **LESSON**: Capital complements labor in the production process, but it also competes with labor for employment.
-
 bus drivers not unionized, then companies can hire more of them at lower wage rates, more frequent buses, less waiting time
 
 **LESSON**: efficiency cannot be defined without mentioning human preferences and desires
@@ -344,10 +342,7 @@ infinite repairs vs just getting it replaced.
 
 ## MINIMUM WAGE LAWS
 
-Higher costs in the form of mandated benefits have the same economic effect as higher costs in
-the form of minimum wage laws.
-
-the higher min. wage goes, more experienced union members can displace less experi. union members, thats why unions want min wage.
+Higher costs in the form of mandated benefits have the same economic effect as higher costs in the form of minimum wage laws. The higher min. wage goes, more experienced union members can displace less experi. union members, thats why unions want min wage.
 
 **FALLACY**: min wage to provide a living wage.
 EVIDENCE: But 42 percent of minimum-wage workers live with parents or some other relative. In other
@@ -362,22 +357,15 @@ Unemployability, like shortages and surpluses, is not independent of price.
 
 ## SPECIAL PROBLEMS IN LABOR MARKETS
 
-compare what percentage of the adult population outside of institutions (colleges, the military, hospitals, prisons,
-etc.) are working.
-
 The point here is that, while people who choose not to look for work are not employed, they are also not automatically classified as unemployed.
-
 frictional unemployment: college grads who don't have jobs to graduate into.
-
 cars caused unemployment for people in horse industry, but the car industry needed a lot of employees too, common fallacy (net job loss)
 
 Growth in per capita output permits both higher pay and better working conditions, while competition for workers forces individual
 employers to make improvements in both,
-
 labor unions don't want kids in workforce because it would make competition, teachers want kids in school longer so schools can be funded
 
 third world countries with worse employment conditions, people still want the jobs
-
 multinational corporations competition has driven up wages even in native businesses
 
 1. LESSON: unions set wages to $20, then company has to pay for additional capital to raise productivity above $20
@@ -391,9 +379,7 @@ multinational corporations competition has driven up wages even in native busine
 **FALLACY**: wealth created vs individual paid is exploitation
 REFUATION: Babe Ruth would be the most exploited of all time. He carried Yankees franchise
 
-In some situations, people in a given occupation may be paid less currently than the rate of pay necessary to continue to attract a sufficient
-supply of qualified people to that occupation.
-
+In some situations, people in a given occupation may be paid less currently than the rate of pay necessary to continue to attract a sufficient supply of qualified people to that occupation.
 company who builds a big dam in a river can be exploited by local gov. requiring it to pay higher wages or higher taxes.
 
 ## REAL PROBLEM OF POVERTY IS NOT PRODUCING ENOUGH
@@ -401,24 +387,19 @@ company who builds a big dam in a river can be exploited by local gov. requiring
 ### JOB SECURITY
 
 LESSON: Countries with job security laws typically have higher unemployment.
-
 Average american has 9 jobs between ages 18 to 34.
-
 Job security laws reduce efficiency and flexibility
 
 ## OCCUPATIONAL LICENSING
 
-**LESSON**: although rationale for requiring licenses was to root out unqualified people, the public has rarely demanded it
-common for licesing to exempt alread existing businesses / conflict of interest
+**LESSON**: although rationale for requiring licenses was to root out unqualified people, the public has rarely demanded it / common for licensing to exempt alread existing businesses / conflict of interest
 
 ## INVESTMENT
 
 - specializing in a useless field, the lower pay means a waste of scarce resources
 - life experience sometimes is better then classroom education
 
-**LESSON**: 3rd world country, more people get useless degrees, gov has to hire them to prevent political unrest, increases red tape,
-makes it harder for qualified people to create & progress
-
+**LESSON**: 3rd world country, more people get useless degrees, gov has to hire them to prevent political unrest, increases red tape, makes it harder for qualified people to create & progress
 big sums of money owned by institutions are a reflection of small sums of many individuals
 
 **LESSON**: lack of financial institutions to allocate capital in poor countries restrict entrepreneurial ability
@@ -427,11 +408,9 @@ big sums of money owned by institutions are a reflection of small sums of many i
 
 **FALLACY**: annual rate of interest on these loans are astronomical
 REFULATION: those loans aren't given out for a whole year! ex. Salmon costs 10k a year (not going to be buying salmon everyday)....
-
 interest- cost includes the risk involved in sending out the loan.
 
-SPECULATORS: farmer doesn't want to guess what price to sell his wheat, so he sells it to a speculator who pays him in advance regardless
-of what market price is, frees up farmer for doing his work.
+SPECULATORS: farmer doesn't want to guess what price to sell his wheat, so he sells it to a speculator who pays him in advance regardless of what market price is, frees up farmer for doing his work.
 
 ## INVENTORY AND PRESENT VALUE
 
@@ -439,13 +418,10 @@ of what market price is, frees up farmer for doing his work.
 
 A soldier won't know the # of bullets he will fire in battle, so he carries more, but too much, will slow him down
 
-**DEFINITION**: The “present value” of an asset is in fact nothing more than its anticipated future benefits, added up and discounted for the
-fact that they are delayed.
-
+**DEFINITION**: The “present value” of an asset is in fact nothing more than its anticipated future benefits, added up and discounted for the fact that they are delayed.
 present value of asset reflects future benefits/detriments immediately.
 
-An insurance company not only has the advantage of large numbers, it has the further advantage that its
-existence is not limited to the human lifespan.
+An insurance company not only has the advantage of large numbers, it has the further advantage that its existence is not limited to the human lifespan.
 
 Reduce risk comes from greater predictability of large numbers
 
@@ -454,7 +430,6 @@ Reduce risk comes from greater predictability of large numbers
 FALLACY: We are running out of oil (1970s)
 REFUTATION: No! Drilling fell due to supply and demand, no correlation with actual oil supplies
 FACT: 2/3rd of oil in oil pools are left there, since extracting isn't worth it
-
 FACTS: US has 1000 years worth of ntrl gas, study was repudiated to reach more politically correct results
 
 ## STOCKS, BONDS AND INSURANCE
@@ -462,35 +437,26 @@ FACTS: US has 1000 years worth of ntrl gas, study was repudiated to reach more p
 money has different values based on time of it received (inflation included)
 
 Bond increases value due to interest rate, what about capital gains?? That sum of money is equivalent to each other
-Capital gains: if inflation had reduced value of the bond upon maturity?
-
 Bonds have to be paid, legally (kind of like employees)
 
 **LESSON**: venture capitalist needs >= 50% return on successful ventures to cover for losses
-
 **LESSON**: fast growing company: stocks may be better, stable company, bonds..
 
 FACT: In past, shipowners liked owning 10% of 10 different ships, then one whole ship; greater chance of losing, but less chance of very bad loss
-
-For similar reasons, Hollywood agents have acquired percentage shares in the future earnings of unknown young actors and actresses who looked
-promising, thus making it worthwhile to invest time and money in the development and marketing of their talent.
+For similar reasons, Hollywood agents have acquired percentage shares in the future earnings of unknown young actors and actresses who looked promising, thus making it worthwhile to invest time and money in the development and marketing of their talent.
 
 ## INSURANCE
 
 As with other forms of insurance, risks are not simply transferred from one party to another, but reduced in the process.
-
 a lot of customers, more data on insurance risks, so risks are less.
 
-FACT: About two thirds of life insurance companies’ income comes from the premiums paid by their policy-holders and about one-fourth from earnings on their
-investments
+FACT: About two thirds of life insurance companies’ income comes from the premiums paid by their policy-holders and about one-fourth from earnings on their investments.
 
 **LESSON**: Moral Hazard - with insurance, more damanges can be tolerated by buyers, how to determine premium?
 
 **LESSON**: Adverse Selection - incidence of disease X doesn't factor in likelihood of happening under certain situations
 
-MISTAKE: force banks to all have deposit insurance, people didn't care about whether companie's policies were reckless, lost the
-incentive to leave, thus savings and loan associations lost a lot of money
-
+MISTAKE: force banks to all have deposit insurance, people didn't care about whether companie's policies were reckless, lost the incentive to leave, thus savings and loan associations lost a lot of money.
 Insurance is about risk, not fault, forcing everyone to have same insurance charge would raise overall price.
 
 FEMA encourages risk taking, paid for by taxpayers
@@ -498,21 +464,14 @@ FEMA encourages risk taking, paid for by taxpayers
 ## PROBLEMS OF TIME AND RISK
 
 **LESSON**: not all rewards are paid in time when they are finished (shoe shining vs oil)
-RISK VS UNCERTAINTY
 circulation of $ decline, slows economy
 
 **LESSON**: In general, wherever A pays a low cost to impose high costs on B through delay, then A can either extort money from B or
 thwart B’s activities that A does not like, or some combination of the two.
 
-EXAMPLE: environm. report, little cost but imposes big delays that can ruin a project
-
 **LESSON**: Time is money, against political risk
-
 WHAT A QUOTE: "what things cost in the past is history, what the supply and demand today is economics"
-
 "Present value", anticipates the future; company can get punished by stock price if shareholders anticipate ....
-
-Time and foresight can impose consequences of policies unforeseen, politicians only care about next election
 
 ## NATIONAL OUTPUT
 
@@ -522,22 +481,14 @@ LESSON: Interaction between individuals is ignored. Gov can always bail out indu
 
 FALLACY: too much economic output leads to scaling back production, loss of jobs
 REFUTATION: so much richer and produce more now, where is the catastrophe?
-
-Flow of income vs accumulated stock of wealth
-
 measuring count over time, don't forget about qualitative aspects (seat belts, better features)
 
 GDP compared to very recent years more reflect products then vs 100 yrs ago
 
 PROBLEM: previous years of declining prices are not reflected in stats,
-PROBLEM: higher prices may mean higher quality
-
 LESSON: government also can sell for less price, exaggerate value of gov. services
-
 higher gdp per capita doesn't mean that living standards are higher
-
-developing countries rise, then poor people who would've died now survive, increasing size of poor people, which could
-actually drag down statistics
+developing countries rise, then poor people who would've died now survive, increasing size of poor people, which could actually drag down statistics
 
 ## INFLATION AND DEFLATION
 
@@ -549,7 +500,6 @@ deflation causes mortagages and debts to cost more in relative terms
 Federal reserve in the great depression acted strangely, RAISED INTEREST RATES????
 reducing wage rates to compensate for deflation, not done by hoover or fdr, made things worse
 Price of farm products were maintained by hoover (maintain purchasing power of farmers), fdr, resulting in crops being destroyed in periods of starvation
-
 Money facilitates transfer of wealth, no banks, countries are poor.
 
 ### FRACTIONAL RESERVE BANKING
@@ -557,58 +507,38 @@ Money facilitates transfer of wealth, no banks, countries are poor.
 - bank a written checks to bank b, bank b written checks to bank a, banks just pay the difference between the two!
 
 **DEFINITION**: degree to which an asset can be converted to cash while retaining value
-
 In China, most savings go to gov. run banks, which are loaned to gov enterprises at low interest rates
 
-State deposit insurance before federal deposit insurance.
-
-Logic: branch banking previously disallowed, due to trying to prevent competition, means that most
-customers are only in one area, greater risk
-
+Logic: branch banking previously disallowed, due to trying to prevent competition, means that most customers are only in one area, greater risk
 people who are insured may take greater risks.
 
 **LESSON**: containing risk doesn't make it go away
 
 ## ROLE OF GOVERNMENT
 
-Corruption: beaureaucrats delay, can demand bribes, cost of business goes up, higher prices,
-lower standard of living.
+Corruption: beaureaucrats delay, can demand bribes, cost of business goes up, higher prices, lower standard of living.
+Fact: A survey by the World Bank found that the number of days required to start a new business ranged from less than ten in prosperous Singapore to 155 days in poverty-stricken Congo
 
-Fact: A survey by the World Bank found that the number of days required to start a new business ranged from less
-than ten in prosperous Singapore to 155 days in poverty-stricken Congo
+**LESSON**: Property Rights create self monitoring, property rights are more valuable to people who are not rich, since its economically efficient
 
-**LESSON**: Property Rights create self monitoring, property rights are more valuable to people
-who are not rich, since its economically efficient
-
-In aggregate, the non rich often has far more money then rich??? Entrepreneurs
-can borrow money, and use that to build middle class homes and apartments in rich neighborhoods,
+In aggregate, the non rich often has far more money then rich??? Entrepreneurs can borrow money, and use that to build middle class homes and apartments in rich neighborhoods,
 thuse lowering property values of rich
 
 ## SOCIAL ORDER
 
-Trust is important in doing business
-Overseas Chinese can make verbal agreements, without judicial legal system involved, thus
-the cost of doing business is lower, an advantage.
+Trust is important in doing business. Overseas Chinese can make verbal agreements, without judicial legal system involved, thus the cost of doing business is lower, an advantage.
+Rent control can cause landlords to neglect or destroy their property, hoping they can sell the site for other uses, thereby getting rid of costs and rent control
 
-Rent control can cause landlords to neglect or destroy their property, hoping they can sell the site
-for other uses, thereby getting rid of costs and rent control
-
-Consider government as an integral part, loses distinction between capability and intention
-No present value factor to force political decision makers
-
+Consider government as an integral part, loses distinction between capability and intention. No present value factor to force political decision makers
 No clear categorial definition as "clean water, or clean air"
 LESSON: if gov keeps raising standards of purity, the costs may be more then benefits
 
 ---------GOVERNMENT FINANCE-------------
-
 Tax revenue and bond sales are biggest src of money for gov.
 **DEFINITION**: national debt is what's owed by gov.
 
 ## GOVERNMENT REVENUES
-
-government services and goods: transactions are transfers of tangible resources that
-affect economic efficiency.
-
+government services and goods: transactions are transfers of tangible resources that affect economic efficiency.
 Tax rates vs tax revenues: gov can change tax rates, but revenue change depends on people
 FALLACY: "500 billion tax cut or 700 billion tax increase".
 
@@ -616,68 +546,41 @@ DEFINE: regressive tax, affects lower income people more then higher
 
 tax laws are based on value expressed in money: inflation can make investment worth more even if it didn't earn anything
 
-- purchaser of tax exempt gov. bonds has no interest in future goal of these bond spending
-  Will have to pay bondholders nonetheless
-
+- purchaser of tax exempt gov. bonds has no interest in future goal of these bond spending / will have to pay bondholders nonetheless
 Using eminent domain to destroy blighted housing and replace with commercial property with higher values
-
 **LESSON**: Bonds or tax revenue? Future or current needs?
-
 Foreigners hold US debt, can collect future wealth from future generations of americans
 
-**LESSON**: Look at debt relative to size of US economy, if gov has large financial liabilities, but not yet part of budget,
-then the debt may be less then what gov. truly owes.
+**LESSON**: Look at debt relative to size of US economy, if gov has large financial liabilities, but not yet part of budget, then the debt may be less then what gov. truly owes.
+Transport Systems becoming municiapl, gov, owned. Resources whose value to people elsewhere were greater were being sent to municipal transit due to taxpayer revenue and subsidies
 
-Transport Systems becoming municiapl, gov, owned. Resources whose value to people elsewhere were greater
-were being sent to municipal transit due to taxpayer revenue and subsidies
-
-**CLAIM**: services have to be obtainable from standpoint of "poor". Why would majority of population pay for
-something that fewer people use? Vouchers are better...
-
+**CLAIM**: services have to be obtainable from standpoint of "poor". Why would majority of population pay for something that fewer people use? Vouchers are better...
 Unemployment benefits and agricul. subsidies are entitilement programs, which are unpopular to repeal.
-
 LESSON: Loss of purchasing power in once place offsets gain in purchasing power elsewhere
 
-Keynesian economics, get an economy out of recession is for gov to do deficit spending, adds to monetary demand, leading
-to more purchases, more hiring, and reduce unemployment.
-
+Keynesian economics, get an economy out of recession is for gov to do deficit spending, adds to monetary demand, leading to more purchases, more hiring, and reduce unemployment.
 LESSON: Legal penalties against gov may be little, but economic cost may be very big!
 
-Land restrictions in the name of "open space" may reduce value because home builders are prevented from using the land
-and don't bid for it.
+Land restrictions in the name of "open space" may reduce value because home builders are prevented from using the land and don't bid for it.
 
 ## BENEFITS VS NET BENEFITS
 
-Product X costs $10, but avg person only wants it for $6, then fewer are going to buy
-Gov may subsidize this through $4 (bond sales, or taxes). Means that most people will pay $10
-counting taxes and their own money to buy something now worth $6.
+Product X costs $10, but avg person only wants it for $6, then fewer are going to buy. Gov may subsidize this through $4 (bond sales, or taxes). Means that most people will pay $10 counting taxes and their own money to buy something now worth $6.
 
-Even if now affordable for avg person, then half of population still won't be able to afford it,
-so have to repeat the process.
-
+Even if now affordable for avg person, then half of population still won't be able to afford it, so have to repeat the process.
 Tax cuts for the rich phrase...
 
-**FALLACY**: Congressional budget office issues projections provided by congress. If Congress is wrong, then the office will
-make estimates based off of wrong assumptions, even if media or public consider it non partisan.
-
+**FALLACY**: Congressional budget office issues projections provided by congress. If Congress is wrong, then the office will make estimates based off of wrong assumptions, even if media or public consider it non partisan.
 Wealth buys more education and time to be devoted into politics
-
 Gov officials are pressured to "do something" even if it may make things worse
 
 ## Government Obligations
-
 Legal obligations to make future expenditures. Like gov bonds, or subsidies.
 
-Gov. guarantees; costs nothing to taxpayers so may be celebrated, but if loans don't get repaid, then lots of taxpayer
-money gets spent to cover costless guarantees
-
+Gov. guarantees; costs nothing to taxpayers so may be celebrated, but if loans don't get repaid, then lots of taxpayer money gets spent to cover costless guarantees
 Easy to promise pensions, but unpopular politically to raise taxes to cover these pensions
-
 Private annuity invests premiums that come in, create investments that can pay dividends
-
-Social security doesn't invest in anything. Gov bonds in social security only promise to pay money collected from
-future taxpayers (no wealth is created)
-
+Social security doesn't invest in anything. Gov bonds in social security only promise to pay money collected from future taxpayers (no wealth is created)
 Private annuity creates wealth that will pay for its own pension, but gov pensions pay currently retired using premiums paid by currently working.
 Gov pensions are jeopardized by changing demographic
 
@@ -685,13 +588,9 @@ Gov pensions are jeopardized by changing demographic
 
 Imperfection of market vs imperfection of gov.
 
-2008: big banks had huge losses in loans, politicians were rarely blamed for making banks loan to bad creditors.
-Then they get credit for making solutions to problems they created.
-
+2008: big banks had huge losses in loans, politicians were rarely blamed for making banks loan to bad creditors. Then they get credit for making solutions to problems they created.
 LESSON: Boeing abandoned concorde design once financial problems were known. Britain and France gov. didn't.
-
-LESSON: Britain and France gov. created channel tunnel, while private ferry companies made their ferries bigger. Turns out that
-the Channel tunnel was very bad financially.
+LESSON: Britain and France gov. created channel tunnel, while private ferry companies made their ferries bigger. Turns out that the Channel tunnel was very bad financially.
 
 ----------INTERNATIONAL TRADE-----------
 
@@ -699,53 +598,33 @@ Intl. trade isn't 0 sum game: Both sides will benefit or else trade won't exist.
 FAVORABLE VS UNFAVORABLE
 
 NAFTA was good to US? # of US jobs increased after agreement
-
 FALLACY: import surplus required diff. of import, export to be paid in gold, loss of gold will make country poor
-
 Adam Smith the wealth of nations said that real wealth of nation consists of good and services, not gold supply
 We had favorable trade during 1930's....
-
 ABSOLUTE ADVANTAGE: 1 country can make things cheaper/better then others
 COMPARATIVE ADVANTAGE: country sacrifices less by shifting resources to production
-
 ECONOMIC COSTS - foregone alternatives
 
-EXAMPLE: britain focused on making goods based on compar. advantage, then using those money to buy food
-, not worth for britain to grow its own food
-
+EXAMPLE: britain focused on making goods based on compar. advantage, then using those money to buy food, not worth for britain to grow its own food
 FACT: Min output of automobiles to achieve good cost/car is between 200-400k a year
-
 Intl trade is needed to achieve economies of scale
-
 Restrictions: imports of things can create job losses
 
 FALLACY: rich countries cannot compete with poorer countries (low wage) workers.
 
-History and economics refute it. Britain in 19th entury and Dutch republic. India also had lower wage rates
-then in more modern countries but its producers couldn't compete in terms of quality.
-
+History and economics refute it. Britain in 19th entury and Dutch republic. India also had lower wage rates then in more modern countries but its producers couldn't compete in terms of quality.
 Wage rates vs labor costs vs total cost
 
 Wage rates are measured per hour of work
 labor costs - per unit of output
 total cost - cost of labor but cost of other things needed to produce the product.
 
-LESSON: When workers in a prosperous country receive wages twice as high as
-workers in a poorer country and produce three times the output per hour, then
+LESSON: When workers in a prosperous country receive wages twice as high as workers in a poorer country and produce three times the output per hour, then
 it is the high-wage country which has the lower labor costs per unit of output.
 
-LESSON: restrictions on either domestic or international markets usually cost jobs on net balance because such
-restrictions reduce the prosperity on which the demand for goods and labor
-depends.
-
-capital cheaper in rich countries.
-Variety of laws and regulations designed to reduce imports, make things more $$
-
+LESSON: restrictions on either domestic or international markets usually cost jobs on because such restrictions reduce the prosperity on which the demand for goods and labor depends.
 Infant industry - temporary protection although small companies rarely have money for such lobbying
-
-FALLACY: countries "dump" goods onto the market at low prices, losing short term money to get
-larger market share that they can exploit.
-
+FALLACY: countries "dump" goods onto the market at low prices, losing short term money to get larger market share that they can exploit.
 - are goods being sold for less then prod. costs?
 - excuse made by domestic producers to hurt competitors
 - just because prices are low doesn't mean selling below cost of producing these products
@@ -755,16 +634,12 @@ New jobs created may not attract political attention, vs losing jobs belonging t
 FALLACY: Outsourcing in both directions (net losses of jobs)...changes with time
 
 outsource a lot, may have more jobs then otherwise, since more wealth = more jobs
-
-It has been estimated that all the protectionism in the European Union countries
-put together saves no more than a grand total of 200,000 jobs—at a cost of
-$43 billion. That works out to about $215,000 a year for each job saved.
+It has been estimated that all the protectionism in the European Union countries put together saves no more than a grand total of 200,000 jobs—at a cost of $43 billion. That works out to about $215,000 a year for each job saved.
 
 -------INTL TRANSFER OF WEALTH---------
 
 remittances: money sent back home
 FACT: some countries are poor because investing in it is risky
-
 Trade deficits - what is the size relative to size of economy??
 
 counting money flowing in and out, then you are talking about balance of payments(made or not), not trade
@@ -788,97 +663,47 @@ enough returns
 debtor / creditor nation are accounting problems, not determining prosperity.
 
 FALLACY: foreign investors would carry off much of their national wealth, leaving the local population poorer
-REFUTATION: Americans ought to be some of the poorest people in the world, but no.
-The reason for that prosperity is that economic transactions are not a zero-sum
-activity.
+REFUTATION: Americans ought to be some of the poorest people in the world, but no. The reason for that prosperity is that economic transactions are not a zero-sum activity.
 
 FALLACY: multinational corporations profit by “exploiting” workers in the Third World.
-REFUTATION: why does the vast majority of American investments in other countries go to richer
-countries, where high wage rates must be paid
+REFUTATION: why does the vast majority of American investments in other countries go to richer countries, where high wage rates must be paid
 
-Moreover, even within poor countries, the very poorest people are typically those with the least
-contact with multinational corporations, often because they are located away
-from the ports and other business centers.
-
-But, in the modern industrial world at least, imperialism has seldom
-been a major source of international transfers of wealth.
+Moreover, even within poor countries, the very poorest people are typically those with the least contact with multinational corporations, due to distance
+But, in the modern industrial world at least, imperialism has seldom been a major source of international transfers of wealth.
 
 ------> FOREIGN AID
+- foreign aid has encouraged many countries to set up government-run enterprises that have failed, or to create palaces, plazas or other things meant to impress on-lookers
+- What needed to be rebuilt in Europe was physical capital. What needed to be created in much of the Third World was more human capital.
+- “developing nations” for poorer nations, who may or may not be developing as fast as more prosperous nations, and in a number of cases have actually retrogressed economically over the years.
 
-- but in other cases foreign aid simply enables the existing politicians in power to enrich themselves through graft a
-- foreign aid has encouraged many countries to set up government-run enterprises that have failed, or to create
-  palaces, plazas or other things meant to impress on-lookers
-- What needed to be rebuilt in Europe was physical capital. What needed to be created in much of the
-  Third World was more human capital.
+In short, many poor countries have already created substantial amounts of physical wealth that is not legally recognized,
+But the property rights system which makes this possible has not been as accessible to ordinary people in Third World countries
 
-- Another phrase that presupposes an outcome which may or may not in
-  fact materialize is the term “developing nations” for poorer nations, who
-  may or may not be developing as fast as more prosperous nations, and in a
-  number of cases have actually retrogressed economically over the years.
-
-In short, many poor countries have already created substantial amounts of
-physical wealth that is not legally recognized,
-
-But the property rights system which makes this possible has not been as
-accessible to ordinary people in Third World countries
-
-FACT: But an estimated 90 percent of the wealth transfers to poorer nations from the
-United States takes the form of private philanthropic donations, business
-investments or remittances from citizens
+FACT: But an estimated 90 percent of the wealth transfers to poorer nations from the United States takes the form of private philanthropic donations, business investments or remittances from citizens
 
 ----> INTL MONETARY SYSTEM
-
-Where millions of dollars are invested overseas, the stability of the
-various currencies is urgently important.
-
+Where millions of dollars are invested overseas, the stability of the various currencies is urgently important.
 STRONG VS WEAK CURRENCY
 
-A “strong” currency means that the prices of exports from
-countries which use that currency have risen in price to people in other
-countries.
-
-FACT: When Norway’s krone rose in value relative to Sweden’s krona, Norwegians living
-near the border of Sweden crossed over the border and saved 40 percent
-buying a load of groceries in Sweden.
-
-Currency can rise / fall at same time
+A “strong” currency means that the prices of exports from countries which use that currency have risen in price to people in other countries.
+FACT: When Norway’s krone rose in value relative to Sweden’s krona, Norwegians living near the border of Sweden crossed over the border and saved 40 percent buying a load of groceries in Sweden.
 
 INTL DISPARITIES IN WEALTH
+- Was there ever any realistic chance that the nations of the world would have had similar prospects of economic development?
+TAKEAWAY: The larger point here is that the effect of different geographic factors, such as sunshine and rain, cannot be considered in isolation, because their interactions and timing is crucial.
 
-- Was there ever any realistic chance that the
-  nations of the world would have had similar prospects of economic
-  development?
-
-TAKEAWAY: The larger point here is that the effect of different geographic factors,
-such as sunshine and rain, cannot be considered in isolation, because their
-interactions are crucial and their timing is crucial.
-
-shallow vs deep harbors
-
-LESSON: To the direct economic benefits created by low transport costs on navigable waterways must be added the value of greater human capital
-resulting from exposure to a wider cultural universe that includes the
-products, technology and ideas of countries around the world.
-
+LESSON: To the direct economic benefits created by low transport costs on navigable waterways must be added the value of greater human capital resulting from exposure to a wider cultural universe that includes the products, technology and ideas of countries around the world.
 POPULATIONS and IMPERIALISM
 
 - poverty / famine have been far more common in thinly populated regions
 - Spain looted through imperialism, but didn't use riches to improve itself
 
-Takeaway: interactions of the physical world with changing human knowledge and varied human cultures which
-help determine economic outcomes.
-
--Knowledge advanced, did more substances become natural resources unpredictably, changing
-advantages of different regions.
-
+Takeaway: interactions of the physical world with changing human knowledge and varied human cultures which help determine economic outcomes.
+- Knowledge advanced, did more substances become natural resources unpredictably, changing advantages of different regions.
 - when modern transportation and communications penetrate that isolation, old cultures may not vanish
-
-- Whether the payments received by those who contributed in these ways were unnecessarily large is a question
-  answered by whether those same contributions are available from others at a
+- Whether the payments received by those who contributed in these ways were unnecessarily large is a question; answered by whether those same contributions are available from others at a
   lower cost.
-
-- Physically identical things are often sold for different prices, usually
-  because of accompanying conditions that are quite different.
-
+- Physically identical things are often sold for different prices, usually because of accompanying conditions that are quite different.
 - Price differences reflect differences in inventory costs, cost of land of store, ...
 - Customer costs measured in shopping time varies...
 
@@ -886,89 +711,60 @@ advantages of different regions.
 
 - Reasonable or affordable means adjusting economic realities to our budget, since we won't adjust to realities
 
-LESSON: Brands are a way of economizing on scarce knowledge, and
-of forcing producers to compete in quality as well as price.
-
-Drive into a new town, brands help give you comfort and trust in what you do, reduce range of uncertainty
-quality control is higher when brands are well known, brands have to maintain value of their brand
+LESSON: Brands are a way of economizing on scarce knowledge, and of forcing producers to compete in quality as well as price.
+Drive into a new town, brands help give you comfort and trust in what you do, reduce range of uncertainty; higher quality control
 
 -------> NON PROFIT ORGANIZATIONS
 
-- Non-profit organizations have additional sources of income, including
-  fees from those who use their services, However, these fees do not cover the
+- Non-profit organizations have additional sources of income, including fees from those who use their services, However, these fees do not cover the
   full costs of the goods and services being supplied
 
 LESSON: leaders of non profits are in a position to substitute their own goals for institution's purpose
 Difficult to establish foundation to serve a purpose after money has been spent and original founders are dead
 
-universities: Widespread complaints today that professors neglect teaching
-in favor of research, and sometimes neglect both in favor of leisure or other
-activities, suggest that the underlying principle has not changed much in
-more than two hundred years.
+universities: Widespread complaints today that professors neglect teaching in favor of research, and sometimes neglect both in favor of leisure or other
+activities, suggest that the underlying principle has not changed much in more than two hundred years.
 
-In whatever activities they engage, non-profit organizations are not under the same pressures to get “the most
-bang for the buck” as are enterprises in which profit and loss determine their
-survival.
+In whatever activities they engage, non-profit organizations are not under the same pressures to get “the most bang for the buck” as are enterprises in which profit and loss determine their
+survival. If profits are unnecessary charges, then non profits should be doing better then profit groups
 
-If profits are unnecessary charges, then non profits should be doing better then profit groups
-
-Colleges contract out operation: commercial businesses not only run such services at lower costs, they make
-enough profit to pay the colleges more than these non-profit organizations
+Colleges contract out operation: commercial businesses not only run such services at lower costs, they make enough profit to pay the colleges more than these non-profit organizations
 could make from the same operations on their own campuses.
 
-profit-seeking enterprises reduce such waste as hiring year-round employees for highly seasonal
-businesses like college bookstores
+profit-seeking enterprises reduce such waste as hiring year-round employees for highly seasonal businesses like college bookstores
 
 Non profit organizations have incentives to be alarmists in order to score money out of donors.
 
 -----------NON-ECONOMIC-VALUES------------
 
 Economics is not a value, its to weigh one value against each other.
-Economics doesn't say to make most money as possible.
 
 Non economic values viewpoint of the world - people want to save x, preserve, y and do z.
-To people who think—or rather, react—in this way, economics is at best
-a nuisance that obstructs them from doing what they have their hearts set on
-doing
+To people who think—or rather, react—in this way, economics is at best a nuisance that obstructs them from doing what they have their hearts set on
 
-the world forces us into tradeoffs and undesirable choices, politicians will be more popular because
-they promise the impossible.
-
+the world forces us into tradeoffs and undesirable choices, politicians will be more popular because they promise the impossible.
 High costly laws and policies designed to guard public from lethal hazards (if it saves just one human life, worth any cost)
 Wealth can save lives: better buildings to withstand earthquakes etc..
 
 How much life is being saved at what cost
 
 CLAIM: no limit on value of human life, but no one would spend half of nation's gdp to keep someone alive for extra 20 sec.
-Vaccinating children in 3rd world countries costs very little / child and saves many lives, but
-heart transplant on 80 yr old is expensive and doesn't prolong as much life.
-
-Financial analysts may be as sensitive to
-the people they are serving as others are to the very different constituencies
-they represent
+Vaccinating children in 3rd world countries costs very little / child and saves many lives, but heart transplant on 80 yr old is expensive and doesn't prolong as much life.
+Financial analysts may be as sensitive to the people they are serving as others are to the very different constituencies they represent
 
 magnanimous???
 
-Because a given institution or process conveys a certain outcome does not
-mean that it caused that outcome
+Because a given institution or process conveys a certain outcome does not mean that it caused that outcome
 
 People die more often in expensive hospitals since those hospitals take in the most ill patients.
 The hospital didn't cause their deaths though.
 
-In short, moral decisions depend on factual realities. However, people with different moral values can make different decisions about the same
-facts. Therefore the policy question often comes down to whether some
-people feel that their moral values should be imposed on other people with
-different moral values through the power of government
-
-Don't confuse privilege with achievements.
-
+In short, moral decisions depend on factual realities. However, people with different moral values can make different decisions about the same facts. Therefore the policy question often comes down to whether some people feel that their moral values should be imposed on other people with different moral values through the power of government
 Morality is needed for a society to succeed, but are not sufficient by themselves.
 
 ---------HISTORY OF ECONOMICS-----
 
 equilibrium theory, no economic transaction takes place in isolation.
-Keynesian - gov intervene by spending to restore employment
-
 Is economic scientific or just a set of opinions?
 Do economic ideas reflect events and change with events?
 
@@ -980,19 +776,15 @@ forecast vs predictions since there is uncertainty
 
 But economics is ultimately about systemic results, not personal intentions or individual acts.
 George Stigler: “A war may ravage a continent or destroy a generation without posing new theoretical questions".
-
 wage rates per unit of time vs labor costs per unit of output / tax rates per dollar of income vs total tax revenues
 
-Labor unions can increase labor's share of industry, but ruins competition for investment, leading to net loss of jobs.
-Much confusion comes from judging economic policies by the goals they proclaim rather than the incentives they create.
+Labor unions can increase labor's share of industry, but ruins competition for investment, leading to net loss of jobs. Much confusion comes from judging economic policies by the goals they proclaim rather than the incentives they create.
 
 What specific things are going to be done in the name of that goal?
 What does the particular legislation or policy reward and what does it punish?
 What constraints does it impose?
 
 When people do not stop and think through the issues, doesn't matter whether they are geniuses / morons, because the quality of the thinking that they would have done is a moot point.
-
 Understanding facts not enough, implications need to be thought of, ex: Eastman Kodak
-
 Yet invidious comparisons and internecine struggles are social melodrama, which is the lifeblood of the media and politics
 Economics not as emotional satisfying as drama in issues found in media and politics.
