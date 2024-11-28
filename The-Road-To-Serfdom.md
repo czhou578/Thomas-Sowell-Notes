@@ -199,6 +199,37 @@ road so long as we all do the same. The important thing is that the rule enables
 us to predict other people’s behavior correctly, and this requires that it should
 apply to all cases—even if in a particular instance we feel it to be unjust.
 
+The fact that
+someone has full legal authority to act in the way he does gives no answer to the
+question whether the law gives him power to act arbitrarily or whether the law
+prescribes unequivocally how he has to act.
+
+Yet, apart from the pathological case of the miser, there is no such
+thing. The ultimate ends of the activities of reasonable beings are never
+economic. Strictly speaking, there is no “economic motive” but only economic
+factors conditioning our striving for other ends. 
+
+If all
+rewards, instead of being offered in money, were offered in the form of public
+distinctions or privileges, positions of power over other men, or better housing or
+better food, opportunities for travel or education, this would merely mean that
+the recipient would no longer be allowed to choose and that whoever fixed the
+reward determined not only its size but also the particular form in which it
+should be enjoyed.
+
+Economic values are less important
+to us than many things precisely because in economic matters we are free to
+decide what to us is more, and what less, important. Or, as we might say, because
+in the present society it is we who have to solve the economic problems of our
+lives.
+
+The question raised by economic planning is, therefore, not merely whether we
+shall be able to satisfy what we regard as our more or less important needs in the
+way we prefer. It is whether it shall be we who decide what is more, and what is
+less, important for us, or whether this is to be decided by the planner.
 
 
-
+Central planning means that the economic problem
+is to be solved by the community instead of by the individual; but this involves
+that it must also be the community, or rather its representatives, who must decide
+the relative importance of the different needs.
