@@ -233,3 +233,35 @@ Central planning means that the economic problem
 is to be solved by the community instead of by the individual; but this involves
 that it must also be the community, or rather its representatives, who must decide
 the relative importance of the different needs.
+
+If
+they want to plan, they must control the entry into the different trades and
+occupations, or the terms of remuneration, or both.
+
+But when the authority fixes the
+remunerations for a whole category and the selection among the candidates is
+made by an objective test, the strength of their desire for the job will count for
+very little
+
+That people should wish to be relieved of the bitter choice which hard facts
+often impose upon them is not surprising. But few want to be relieved through
+having the choice made for them by others. People just wish that the choice
+should not be necessary at all. 
+
+We should be seriously deceiving ourselves if for these apprehensions we sought
+comfort in the consideration that the adoption of central planning would merely
+mean a return, after a brief spell of a free economy, to the ties and regulations
+which have governed economic activity through most ages, and that therefore
+the infringements of personal liberty need not be greater than they were before
+the age of laissez faire. 
+
+But, in consequence, the substitution of central
+planning for competition would require central direction of a much greater part
+of our lives than was ever attempted before. It could not stop at what we regard
+as our economic activities, because we are now for almost every part of our lives
+dependent on somebody else’s economic activities.
+
+To believe that the power which is thus conferred on the state is merely
+transferred to it from others is erroneous. It is a power which is newly created
+and which in a competitive society nobody possesses. 
+
