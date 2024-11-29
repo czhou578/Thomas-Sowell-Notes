@@ -265,3 +265,209 @@ To believe that the power which is thus conferred on the state is merely
 transferred to it from others is erroneous. It is a power which is newly created
 and which in a competitive society nobody possesses. 
 
+While people will submit to suffering which may hit anyone, they will not so
+easily submit to suffering which is the result of the decision of authority.
+
+No socialist movement which aimed at complete equality has ever
+gained substantial support. What socialism promised was not an absolutely
+equal, but a more just and more equal, distribution.
+
+But once the claim of the individual worker to the
+whole of “his” product is disallowed, and the whole of the return from capital is
+to be divided among all workers, the problem of how to divide it raises the same
+basic issue.
+
+Surely we have learned that knowledge cannot
+create new ethical values, that no amount of learning will lead people to hold the
+same views on the moral issues which a conscious ordering of all social relations
+raises. It is not rational conviction but the acceptance of a creed which is
+required to justify a particular plan.
+
+There is a great deal of truth in the often heard statement
+that fascism and National Socialism are a sort of middle-class socialism— only
+that in Italy and Germany the supporters of these new movements were
+economically hardly a middle class any longer.
+
+It will be well to contrast at the outset the two kinds of security: the limited
+one, which can be achieved for all, and which is therefore no privilege but a
+legitimate object of desire; and absolute security, which in a free society cannot
+be achieved for all and which ought not to be given as a privilege—except in a
+few special instances such as that of the judges, where complete independence is
+of paramount importance. 
+
+No wonder that in consequence
+the value attached to the privilege of security constantly increases, the demand
+for it becomes more and more urgent, until in the end no price, not even that of
+liberty, appears too high.
+
+What is more important is that if we want to leave
+them the choice, if they are to be able to judge what they ought to do, they must
+be given some readily intelligible yardstick by which to measure the social
+importance of the different occupations.
+
+
+While so long as he keeps to
+the safe path of objectively ascertainable duty he may be surer of his income
+than the capitalist entrepreneur, the danger which threatens him in case of real
+failure is worse than bankruptcy. He may be economically secure so long as he
+satisfies his superiors, but this security is bought at the price of the safety of
+freedom and life.
+
+The
+reason for this is that with every grant of complete security to one group the
+insecurity of the rest necessarily increases. If you guarantee to some a fixed part
+of a variable cake, the share left to the rest is bound to fluctuate proportionally
+more than the size of the whole. And the essential element of security which the
+competitive system offers, the great variety of opportunities, is more and more
+reduced.
+
+Every restriction on
+the freedom of entry into a trade reduces the security of all those outside it. 
+
+Thus, the more we try to provide full security by interfering with the market
+system, the greater the insecurity becomes; and, what is worse, the greater
+becomes the contrast between the security of those to whom it is granted as a
+privilege and the ever increasing insecurity of the underprivileged. And the more
+security becomes a privilege, and the greater the danger to those excluded from
+it, the higher will security be prized.
+
+There can be no question that adequate security against severe privation, and
+the reduction of the avoidable causes of misdirected effort and consequent
+disappointment, will have to be one of the main goals of policy. But if these
+endeavors are to be successful and are not to destroy individual freedom,
+security must be provided outside the market and competition be left to function
+unobstructed. 
+
+The chance of imposing a totalitarian regime
+on a whole people depends on the leader’s first collecting round him a group
+which is prepared voluntarily to submit to that totalitarian discipline which they
+are to impose by force upon the rest.
+
+They still hoped for the miracle of a majority’s
+agreeing on a particular plan for the organization of the whole of society; others
+had already learned the lesson that in a planned society the question can no
+longer be on what do a majority of the people agree but what the largest single
+group is whose members agree sufficiently to make unified direction of all
+affairs possible; or, if no such group large enough to enforce its views exists,
+how it can be created and who will succeed in creating it.
+
+Collectivism has no room for the wide humanitarianism of liberalism but only
+for the narrow particularism of the totalitarian.
+
+If the “community” or the state are prior to the individual, if they have ends of
+their own independent of and superior to those of the individuals, only those
+individuals who work for the same ends can be regarded as members of the
+community. It is a necessary consequence of this view that a person is respected
+only as a member of the group, that is, only if and in so far as he works for the
+recognized common ends, and that he derives his whole dignity only from this
+membership and not merely from being a man. Indeed, the very concepts of
+humanity and therefore of any form of internationalism are entirely products of
+the individualist view of man, and there can be no place for them in a collectivist
+system of thought.
+
+“an increasing tendency among modern men to imagine themselves
+ethical because they have delegated their vices to larger and larger groups.”
+5 To
+act on behalf of a group seems to free people of many of the moral restraints
+which control their behavior as individuals within the group.
+
+To split or decentralize
+power is necessarily to reduce the absolute amount of power, and the
+competitive system is the only system designed to minimize by decentralization
+the power exercised by man over man.
+
+Quite the
+reverse; it will take a much greater interest in the individual’s habits of life than
+an individualist community. To be a useful member of a collectivist society
+requires very definite qualities which must be strengthened by constant practice.
+
+They only serve, as
+it were, to fill any gaps which direct orders or the designation of particular aims
+may leave, but they can never justify a conflict with the will of the authority.
+
+Once you
+admit that the individual is merely a means to serve the ends of the higher entity
+called society or the nation, most of those features of totalitarian regimes which
+horrify us follow of necessity
+
+The moral consequences of totalitarian propaganda which we must now
+consider are, however, of an even more profound kind. They are destructive of
+all morals because they undermine one of the foundations of all morals: the
+sense of and the respect for truth. 
+
+But we must not assume that
+the planner will approach his task aware of that need or that, even if he were
+aware of it, it would be possible to create such a comprehensive code in advance.
+He only finds out about the conflicts between different needs as he goes along,
+and he has to make his decisions as the necessity arises. The code of values
+guiding his decisions does not exist in abstracto before the decisions have to be
+made; it has to be created with the particular decisions.
+
+The probable effect on the people’s
+loyalty to the system becomes the only criterion for deciding whether a
+particular piece of information is to be published or suppressed. The situation in
+a totalitarian state is permanently and in all fields the same that it is elsewhere in
+some fields in wartime. Everything which might cause doubt about the wisdom
+of the government or create discontent will be kept from the people.
+
+Science for science’s sake, art for art’s sake, are equally abhorrent to
+the Nazis, our socialist intellectuals, and the communists. Every activity must
+derive its justification from a conscious social purpose. There must be no
+spontaneous, unguided activity, because it might produce results which cannot
+be foreseen and for which the plan does not provide. 
+
+To “plan” or
+“organize” the growth of mind, or, for that matter, progress in general, is a
+contradiction in terms. The idea that the human mind ought “consciously” to
+control its own development confuses individual reason, which alone can
+“consciously control” anything, with the interpersonal process to which its
+growth is due. 
+
+Individualism is thus an attitude of humility before this social
+process and of tolerance to other opinions and is the exact opposite of that
+intellectual hubris which is at the root of the demand for comprehensive
+direction of the social process.
+
+Every raid on the gains of
+monopoly, be it in the interest of particular groups or of the state as a whole,
+tends to create new vested interests which will help to bolster up monopoly.
+
+The fatal turning-point in the modern development was
+when the great movement which can serve its original ends only by fighting all
+privilege, the labor movement, came under the influence of anti-competition
+doctrines and became itself entangled in the strife for privilege.
+
+Though it is natural that, as the world around us becomes
+more complex, our resistance grows against the forces which, without our
+understanding them, constantly interfere with individual hopes and plans, it is
+just in these circumstances that it becomes less and less possible for anyone fully
+to understand these forces.
+
+But they are
+mistaken when they carry the comparison further and argue that we must learn to
+master the forces of society in the same manner in which we have learned to
+master the forces of nature. 
+
+What our generation is in danger of forgetting is not only that
+morals are of necessity a phenomenon of individual conduct but also that they
+can exist only in the sphere in which the individual is free to decide for himself
+and is called upon voluntarily to sacrifice personal advantage to the observance
+of a moral rule.
+
+If we are to succeed in the war of ideologies and to win over the decent
+elements in the enemy countries, we must, first of all, regain the belief in the
+traditional values for which we have stood in the past and must have the moral courage stoutly to defend the ideals which our enemies attack. Not by
+shamefaced apologies and by assurances that we are rapidly reforming, not by
+explaining that we are seeking some compromise between the traditional liberal
+values and the new totalitarian ideas, shall we win confidence and support.
+
+ Many kinds of economic planning are indeed practicable only if
+the planning authority can effectively shut out all extraneous influences; the
+result of such planning is therefore inevitably the piling-up of restrictions on the
+movements of men and goods.
+
+It is
+one of the most fatal illusions that, by substituting negotiations between states or
+organized groups for competition for markets or for raw materials, international
+friction would be reduced.
+
