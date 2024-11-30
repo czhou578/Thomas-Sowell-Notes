@@ -351,123 +351,102 @@ group is whose members agree sufficiently to make unified direction of all
 affairs possible; or, if no such group large enough to enforce its views exists,
 how it can be created and who will succeed in creating it.
 
-Collectivism has no room for the wide humanitarianism of liberalism but only
-for the narrow particularism of the totalitarian.
 
-If the “community” or the state are prior to the individual, if they have ends of
-their own independent of and superior to those of the individuals, only those
-individuals who work for the same ends can be regarded as members of the
-community. It is a necessary consequence of this view that a person is respected
-only as a member of the group, that is, only if and in so far as he works for the
-recognized common ends, and that he derives his whole dignity only from this
-membership and not merely from being a man. Indeed, the very concepts of
-humanity and therefore of any form of internationalism are entirely products of
-the individualist view of man, and there can be no place for them in a collectivist
-system of thought.
+If the “community” or the state are prior to the individual, if they have ends of their own independent of and superior to those of the individuals, only those
+individuals who work for the same ends can be regarded as members of the community. 
 
-“an increasing tendency among modern men to imagine themselves
-ethical because they have delegated their vices to larger and larger groups.”
-5 To
-act on behalf of a group seems to free people of many of the moral restraints
-which control their behavior as individuals within the group.
+Collectivism has no room for the wide humanitarianism of liberalism but only for the narrow particularism of the totalitarian.
 
-To split or decentralize
-power is necessarily to reduce the absolute amount of power, and the
-competitive system is the only system designed to minimize by decentralization
-the power exercised by man over man.
+It is a necessary consequence of this view that a person is respected only as a member of the group, that is, only if and in so far as he works for the
+recognized common ends, and that he derives his whole dignity only from this membership and not merely from being a man. 
 
-Quite the
-reverse; it will take a much greater interest in the individual’s habits of life than
-an individualist community. To be a useful member of a collectivist society
-requires very definite qualities which must be strengthened by constant practice.
+Indeed, the very concepts of humanity and therefore of any form of internationalism are entirely products of
+the individualist view of man.
 
-They only serve, as
-it were, to fill any gaps which direct orders or the designation of particular aims
+“an increasing tendency among modern men to imagine themselves ethical because they have delegated their vices to larger and larger groups.”
+
+To act on behalf of a group seems to free people of many of the moral restraints which control their behavior as individuals within the group.
+
+To split or decentralize power is necessarily to reduce the absolute amount of power, and the
+competitive system is the only system designed to minimize by decentralization the power exercised by man over man.
+
+Quite the reverse; it will take a much greater interest in the individual’s habits of life than
+an individualist community. To be a useful member of a collectivist society requires very definite qualities which must be strengthened 
+by constant practice.
+
+They only serve, as it were, to fill any gaps which direct orders or the designation of particular aims
 may leave, but they can never justify a conflict with the will of the authority.
 
-Once you
-admit that the individual is merely a means to serve the ends of the higher entity
-called society or the nation, most of those features of totalitarian regimes which
-horrify us follow of necessity
+Once you admit that the individual is merely a means to serve the ends of the higher entity called society or the nation, 
+most of those features of totalitarian regimes which horrify us follow of necessity
 
-The moral consequences of totalitarian propaganda which we must now
-consider are, however, of an even more profound kind. They are destructive of
-all morals because they undermine one of the foundations of all morals: the
+The moral consequences of totalitarian propaganda are destructive of all morals because they undermine one of the foundations of all morals: the
 sense of and the respect for truth. 
 
-But we must not assume that
-the planner will approach his task aware of that need or that, even if he were
+But we must not assume that the planner will approach his task aware of that need or that, even if he were
 aware of it, it would be possible to create such a comprehensive code in advance.
-He only finds out about the conflicts between different needs as he goes along,
-and he has to make his decisions as the necessity arises. The code of values
-guiding his decisions does not exist in abstracto before the decisions have to be
-made; it has to be created with the particular decisions.
 
-The probable effect on the people’s
-loyalty to the system becomes the only criterion for deciding whether a
-particular piece of information is to be published or suppressed. The situation in
-a totalitarian state is permanently and in all fields the same that it is elsewhere in
-some fields in wartime. Everything which might cause doubt about the wisdom
+He only finds out about the conflicts between different needs as he goes along, and he has to make his decisions as the necessity arises. 
+The code of values guiding his decisions does not exist in abstracto before the decisions have to be made; it has to be created with the 
+particular decisions.
+
+The probable effect on the people’s loyalty to the system becomes the only criterion for deciding whether a
+particular piece of information is to be published or suppressed. Everything which might cause doubt about the wisdom
 of the government or create discontent will be kept from the people.
 
-Science for science’s sake, art for art’s sake, are equally abhorrent to
-the Nazis, our socialist intellectuals, and the communists. Every activity must
-derive its justification from a conscious social purpose. There must be no
-spontaneous, unguided activity, because it might produce results which cannot
-be foreseen and for which the plan does not provide. 
+Science for science’s sake, art for art’s sake, are equally abhorrent to the Nazis, our socialist intellectuals, and the communists. 
+Every activity must derive its justification from a conscious social purpose. There must be no spontaneous, unguided activity, because 
+it might produce results which cannot be foreseen and for which the plan does not provide. 
 
-To “plan” or
-“organize” the growth of mind, or, for that matter, progress in general, is a
-contradiction in terms. The idea that the human mind ought “consciously” to
-control its own development confuses individual reason, which alone can
-“consciously control” anything, with the interpersonal process to which its
+To “plan” or “organize” the growth of mind, or, for that matter, progress in general, is a contradiction in terms. The idea that the human mind ought “consciously” to
+control its own development confuses individual reason, which alone can “consciously control” anything, with the interpersonal process to which its
 growth is due. 
 
-Individualism is thus an attitude of humility before this social
-process and of tolerance to other opinions and is the exact opposite of that
-intellectual hubris which is at the root of the demand for comprehensive
-direction of the social process.
+Individualism is thus an attitude of humility before this social process and of tolerance to other opinions
 
-Every raid on the gains of
-monopoly, be it in the interest of particular groups or of the state as a whole,
+Every raid on the gains of monopoly, be it in the interest of particular groups or of the state as a whole,
 tends to create new vested interests which will help to bolster up monopoly.
 
-The fatal turning-point in the modern development was
-when the great movement which can serve its original ends only by fighting all
-privilege, the labor movement, came under the influence of anti-competition
-doctrines and became itself entangled in the strife for privilege.
+The fatal turning-point in the modern development was when the great movement which fought all
+privilege, the labor movement, came under the influence of anti-competition doctrines and became itself entangled in the strife for privilege.
 
-Though it is natural that, as the world around us becomes
-more complex, our resistance grows against the forces which, without our
-understanding them, constantly interfere with individual hopes and plans, it is
-just in these circumstances that it becomes less and less possible for anyone fully
+Though it is natural that, as the world around us becomes more complex, our resistance grows against the forces which, without our
+understanding them, constantly interfere with individual hopes and plans. it is just in these circumstances that it becomes less possible for anyone fully
 to understand these forces.
 
-But they are
-mistaken when they carry the comparison further and argue that we must learn to
-master the forces of society in the same manner in which we have learned to
+We cannot learn to master the forces of society in the same manner in which we have learned to
 master the forces of nature. 
 
-What our generation is in danger of forgetting is not only that
-morals are of necessity a phenomenon of individual conduct but also that they
-can exist only in the sphere in which the individual is free to decide for himself
-and is called upon voluntarily to sacrifice personal advantage to the observance
-of a moral rule.
+Morals are of necessity a phenomenon of individual conduct but also that they can exist only in the sphere in which the individual is free
+to decide for himself and is called upon voluntarily to sacrifice personal advantage to the observance of a moral rule.
 
 If we are to succeed in the war of ideologies and to win over the decent
 elements in the enemy countries, we must, first of all, regain the belief in the
-traditional values for which we have stood in the past and must have the moral courage stoutly to defend the ideals which our enemies attack. Not by
-shamefaced apologies and by assurances that we are rapidly reforming, not by
-explaining that we are seeking some compromise between the traditional liberal
+traditional values for which we have stood in the past and must have the moral courage stoutly to defend the ideals which our enemies attack. 
+
+Not by shamefaced apologies and by assurances that we are rapidly reforming, not by explaining that we are seeking some compromise between the traditional liberal
 values and the new totalitarian ideas, shall we win confidence and support.
 
- Many kinds of economic planning are indeed practicable only if
-the planning authority can effectively shut out all extraneous influences; the
-result of such planning is therefore inevitably the piling-up of restrictions on the
-movements of men and goods.
+Many kinds of economic planning are indeed practicable only if the planning authority can effectively shut out all extraneous influences; the
+result of such planning is therefore inevitably the piling-up of restrictions on the movements of men and goods.
 
-It is
-one of the most fatal illusions that, by substituting negotiations between states or
-organized groups for competition for markets or for raw materials, international
+Fatal illusion that, by substituting negotiations between states or organized groups for competition for markets or for raw materials, international
 friction would be reduced.
+
+If it comes to be regarded as the duty of the international authority to bring about distributive justice between the different peoples, 
+it is no more than a consistent and inevitable development of socialist doctrine that class strife would
+become a struggle between the working classes of the different countries.
+
+Where the assumption of a moral responsibility involves that one’s moral views should by force be made to
+prevail over those dominant in other communities, it becomes impossible to act morally. 
+
+Nowhere has democracy ever worked well without a great measure of local self-government, providing a school of political training
+for the people and future leaders. 
+
+The awareness of one’s neighbor rather than some theoretical knowledge of the needs of other people which guides action, that the ordinary
+man can take a real part in public affairs because they concern the world he knows.
+
+We must not believe that we can at one stroke create a permanent organization which will make all war in any part of the world entirely
+impossible. Not only would we be unsuccessful in such an attempt but we would probably spoil our chances of achieving success.
+
 
